@@ -1,0 +1,206 @@
+[
+  {
+    "id": "boulangerie-dupont",
+    "name": "Boulangerie Dupont",
+    "address": "12 Rue des Fleurs, 75011 Paris",
+    "city": "Paris",
+    "lat": 48.8571,
+    "lng": 2.3805,
+    "photo": "/images/boulangerie-dupont.jpg",
+    "website": "https://exemple.com",
+    "mapsUrl": "https://maps.google.com/?q=12+Rue+des+Fleurs+75011+Paris",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "-10% sur les pains spéciaux",
+      "conditions": "Sur présentation de la carte membre. Non cumulable."
+    },
+    "openingHours": "Lun–Sam 7:00–19:00"
+  },
+  {
+    "id": "mode-eloise",
+    "name": "Mode Éloïse",
+    "address": "45 Avenue Montaigne, 75008 Paris",
+    "city": "Paris",
+    "lat": 48.8669,
+    "lng": 2.3071,
+    "photo": "/images/mode-eloise.jpg",
+    "website": "https://mode-eloise.fr",
+    "mapsUrl": "https://maps.google.com/?q=45+Avenue+Montaigne+75008+Paris",
+    "categories": ["Mode"],
+    "advantage": {
+      "label": "-15% sur toute la collection",
+      "conditions": "Valable jusqu'au 31/12/2024. Non cumulable avec autres promotions."
+    },
+    "openingHours": "Mar–Sam 10:00–19:00"
+  },
+  {
+    "id": "coiffure-tendance",
+    "name": "Coiffure Tendance",
+    "address": "8 Rue de la Paix, 69001 Lyon",
+    "city": "Lyon",
+    "lat": 45.7640,
+    "lng": 4.8357,
+    "photo": "/images/coiffure-tendance.jpg",
+    "website": "https://coiffure-tendance.com",
+    "mapsUrl": "https://maps.google.com/?q=8+Rue+de+la+Paix+69001+Lyon",
+    "categories": ["Beauté"],
+    "advantage": {
+      "label": "-20% sur coupe + brushing",
+      "conditions": "Sur RDV uniquement. Valable du mardi au vendredi."
+    },
+    "openingHours": "Mar–Sam 9:00–18:00"
+  },
+  {
+    "id": "restaurant-bistro",
+    "name": "Le Bistro Gourmand",
+    "address": "23 Place Bellecour, 69002 Lyon",
+    "city": "Lyon",
+    "lat": 45.7578,
+    "lng": 4.8320,
+    "photo": "/images/restaurant-bistro.jpg",
+    "website": "https://bistro-gourmand.fr",
+    "mapsUrl": "https://maps.google.com/?q=23+Place+Bellecour+69002+Lyon",
+    "categories": ["Food", "Restaurant"],
+    "advantage": {
+      "label": "Menu découverte offert",
+      "conditions": "Pour 2 personnes minimum. Boissons non comprises."
+    },
+    "openingHours": "Lun–Dim 12:00–22:00"
+  },
+  {
+    "id": "sport-plus",
+    "name": "Sport Plus",
+    "address": "156 Cours Lafayette, 69003 Lyon",
+    "city": "Lyon",
+    "lat": 45.7640,
+    "lng": 4.8421,
+    "photo": "/images/sport-plus.jpg",
+    "website": "https://sport-plus.com",
+    "mapsUrl": "https://maps.google.com/?q=156+Cours+Lafayette+69003+Lyon",
+    "categories": ["Sport"],
+    "advantage": {
+      "label": "-25% sur équipement running",
+      "conditions": "Valable sur la gamme Nike et Adidas. Hors promotions."
+    },
+    "openingHours": "Lun–Sam 9:30–19:30"
+  },
+  {
+    "id": "librairie-papyrus",
+    "name": "Librairie Papyrus",
+    "address": "34 Rue Saint-André, 33000 Bordeaux",
+    "city": "Bordeaux",
+    "lat": 44.8378,
+    "lng": -0.5792,
+    "photo": "/images/librairie-papyrus.jpg",
+    "website": "https://papyrus-bordeaux.fr",
+    "mapsUrl": "https://maps.google.com/?q=34+Rue+Saint-André+33000+Bordeaux",
+    "categories": ["Culture"],
+    "advantage": {
+      "label": "-5% sur tous les livres",
+      "conditions": "Cumul possible avec carte fidélité. BD exclues."
+    },
+    "openingHours": "Lun–Sam 9:00–19:00"
+  },
+  {
+    "id": "tech-store",
+    "name": "Tech Store",
+    "address": "92 Rue Sainte-Catherine, 33000 Bordeaux",
+    "city": "Bordeaux",
+    "lat": 44.8414,
+    "lng": -0.5805,
+    "photo": "/images/tech-store.jpg",
+    "website": "https://tech-store-bordeaux.com",
+    "mapsUrl": "https://maps.google.com/?q=92+Rue+Sainte-Catherine+33000+Bordeaux",
+    "categories": ["High-Tech"],
+    "advantage": {
+      "label": "Garantie étendue gratuite",
+      "conditions": "2 ans supplémentaires sur smartphones et tablettes."
+    },
+    "openingHours": "Lun–Sam 10:00–19:00"
+  },
+  {
+    "id": "fleurs-marie",
+    "name": "Fleurs de Marie",
+    "address": "67 Boulevard Haussmann, 75009 Paris",
+    "city": "Paris",
+    "lat": 48.8738,
+    "lng": 2.3332,
+    "photo": "/images/fleurs-marie.jpg",
+    "website": "https://fleurs-marie.paris",
+    "mapsUrl": "https://maps.google.com/?q=67+Boulevard+Haussmann+75009+Paris",
+    "categories": ["Jardin"],
+    "advantage": {
+      "label": "Bouquet du jour à 19€",
+      "conditions": "Disponible tous les matins jusqu'à 14h."
+    },
+    "openingHours": "Lun–Sam 8:00–19:00"
+  },
+  {
+    "id": "patisserie-delice",
+    "name": "Pâtisserie Délice",
+    "address": "15 Place du Capitole, 31000 Toulouse",
+    "city": "Toulouse",
+    "lat": 43.6043,
+    "lng": 1.4437,
+    "photo": "/images/patisserie-delice.jpg",
+    "website": "https://patisserie-delice.com",
+    "mapsUrl": "https://maps.google.com/?q=15+Place+du+Capitole+31000+Toulouse",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "Macaron offert",
+      "conditions": "Pour tout achat supérieur à 15€."
+    },
+    "openingHours": "Mar–Dim 8:00–19:00"
+  },
+  {
+    "id": "chaussures-martin",
+    "name": "Chaussures Martin",
+    "address": "78 Rue d'Alsace, 31000 Toulouse",
+    "city": "Toulouse",
+    "lat": 43.6108,
+    "lng": 1.4548,
+    "photo": "/images/chaussures-martin.jpg",
+    "website": "https://chaussures-martin.fr",
+    "mapsUrl": "https://maps.google.com/?q=78+Rue+d'Alsace+31000+Toulouse",
+    "categories": ["Mode"],
+    "advantage": {
+      "label": "-30% sur la 2ème paire",
+      "conditions": "Offre valable sur articles non soldés."
+    },
+    "openingHours": "Lun–Sam 10:00–19:00"
+  },
+  {
+    "id": "cafe-boheme",
+    "name": "Café Bohème",
+    "address": "12 Rue Oberkampf, 75011 Paris",
+    "city": "Paris",
+    "lat": 48.8644,
+    "lng": 2.3698,
+    "photo": "/images/cafe-boheme.jpg",
+    "website": "https://cafe-boheme.paris",
+    "mapsUrl": "https://maps.google.com/?q=12+Rue+Oberkampf+75011+Paris",
+    "categories": ["Food", "Café"],
+    "advantage": {
+      "label": "Café + viennoiserie 4€",
+      "conditions": "Jusqu'à 10h30 en semaine."
+    },
+    "openingHours": "Lun–Ven 7:00–18:00, Sam–Dim 8:00–17:00"
+  },
+  {
+    "id": "optique-vision",
+    "name": "Optique Vision",
+    "address": "45 Cours Mirabeau, 13100 Aix-en-Provence",
+    "city": "Aix-en-Provence",
+    "lat": 43.5263,
+    "lng": 5.4454,
+    "photo": "/images/optique-vision.jpg",
+    "website": "https://optique-vision-aix.fr",
+    "mapsUrl": "https://maps.google.com/?q=45+Cours+Mirabeau+13100+Aix-en-Provence",
+    "categories": ["Santé"],
+    "advantage": {
+      "label": "2ème paire à 1€",
+      "conditions": "Sur montures de la collection précédente."
+    },
+    "openingHours": "Lun–Sam 9:00–18:30"
+  }
+]
