@@ -1,4 +1,3 @@
-markdown
 # ListStore  
 
 Ce projet est un site qui charge automatiquement les données d’un fichier JSON pour générer une liste de commerces, restaurants et lieux. Les filtres (catégories, ville, etc.) et les informations affichées proviennent directement de cette structure.  
