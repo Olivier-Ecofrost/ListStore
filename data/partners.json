@@ -17,29 +17,29 @@
     "openingHours": "Lun–Sam 7:00–15:30"
   },
   {
-    "id": "mode-eloise",
-    "name": "Mode Éloïse",
-    "address": "45 Avenue Montaigne, 75008 Paris",
-    "city": "Paris",
-    "lat": 48.8669,
-    "lng": 2.3071,
+    "id": "Réflex-Harmony",
+    "name": "Réflex' Harmony",
+    "address": "Rue d’Audregnies 83, 7608 Péruwelz",
+    "city": "Wiers",
+    "lat": 48.862725,
+    "lng": 2.287592,
     "photo": "./images/mode-eloise.jpg",
-    "website": "https://mode-eloise.fr",
-    "mapsUrl": "https://maps.google.com/?q=45+Avenue+Montaigne+75008+Paris",
-    "categories": ["Mode"],
+    "website": "https://reflex-harmony.be/",
+    "mapsUrl": "https://www.bing.com/maps?ty=18&q=R%C3%A9flex%27+Harmony&ss=ypid.YN9003x18051757804588522960&ppois=46.41627502441406_6.268735885620117_R%C3%A9flex%27+Harmony_YN9003x18051757804588522960%7E&cp=46.416278%7E6.26873&v=2&sV=1&FORM=MPSRPL&mepi=109%7E%7ETopOfPage%7ELargeMapLink&lvl=16.0",
+    "categories": ["Ressourcement"],
     "advantage": {
-      "label": "-15% sur toute la collection",
-      "conditions": "Valable jusqu'au 31/12/2024. Non cumulable avec autres promotions."
+      "label": "-10% sur les séances",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Mar–Sam 10:00–19:00"
+    "openingHours": "Mar 09:00–19:00, Mer/Jeu/Ven/Sam/Dim horaire flexible"
   },
   {
-    "id": "coiffure-tendance",
-    "name": "Coiffure Tendance",
-    "address": "8 Rue de la Paix, 69001 Lyon",
-    "city": "Lyon",
-    "lat": 45.7640,
-    "lng": 4.8357,
+    "id": "Les-fées-shopping",
+    "name": "Les fées shopping",
+    "address": "Rue Saul Capron 6, 7608 Peruwelz ",
+    "city": "Peruwelz",
+    "lat": 50.5076194,
+    "lng":3.5407993,
     "photo": "./images/coiffure-tendance.jpg",
     "website": "https://coiffure-tendance.com",
     "mapsUrl": "https://maps.google.com/?q=8+Rue+de+la+Paix+69001+Lyon",
