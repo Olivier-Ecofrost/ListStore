@@ -31,7 +31,7 @@
       "label": "-10% sur les séances",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Mar 09:00–19:00, Mer/Jeu/Ven/Sam/Dim horaire flexible"
+    "openingHours": "Mar 09:00–19:00", "Mer/Jeu/Ven/Sam/Dim horaire flexible",
   },
   {
     "id": "Les-fées-shopping",
