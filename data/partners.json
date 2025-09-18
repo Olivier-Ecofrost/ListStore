@@ -67,19 +67,19 @@
     "openingHours": "Lun–Dim 12:00–22:00"
   },
   {
-    "id": "sport-plus",
-    "name": "Sport Plus",
-    "address": "156 Cours Lafayette, 69003 Lyon",
-    "city": "Lyon",
-    "lat": 45.7640,
-    "lng": 4.8421,
-    "photo": "./images/sport-plus.jpg",
-    "website": "https://sport-plus.com",
-    "mapsUrl": "https://maps.google.com/?q=156+Cours+Lafayette+69003+Lyon",
-    "categories": ["Sport"],
+    "id": "Traiteur-Maurice",
+    "name": "Traiteur Maurice",
+    "address": "Boulevard Léopold III 37, 7600 Péruwelz ",
+    "city": "Peruwelz",
+    "lat": 50.5065869,
+    "lng": 3.5930649,
+    "photo": "./images/tm.jpg",
+    "website": "https://www.facebook.com/Maurice.traiteur/",
+    "mapsUrl": "https://www.google.com/maps/place/Maurice+Traiteur/@50.5065484,3.5904849,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb7018f87f4d:0x9a562c316dde4199!8m2!3d50.506545!4d3.5930545!16s%2Fg%2F11qqbczwxy?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["Food"],
     "advantage": {
-      "label": "-25% sur équipement running",
-      "conditions": "Valable sur la gamme Nike et Adidas. Hors promotions."
+      "label": "-5% sur les plats et buffets,"
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     
   },
