@@ -23,10 +23,10 @@
     "city": "Wiers",
     "lat": 48.862725,
     "lng": 2.287592,
-    "photo": "./images/mode-eloise.jpg",
+    "photo": "",
     "website": "https://reflex-harmony.be/",
     "mapsUrl": "https://www.bing.com/maps?ty=18&q=R%C3%A9flex%27+Harmony&ss=ypid.YN9003x18051757804588522960&ppois=46.41627502441406_6.268735885620117_R%C3%A9flex%27+Harmony_YN9003x18051757804588522960%7E&cp=46.416278%7E6.26873&v=2&sV=1&FORM=MPSRPL&mepi=109%7E%7ETopOfPage%7ELargeMapLink&lvl=16.0",
-    "categories": ["Ressourcement"],
+    "categories": ["Ressourcement""Experience"],
     "advantage": {
       "label": "-10% sur les séances",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -41,29 +41,28 @@
     "lat": 50.5076194,
     "lng":3.5407993,
     "photo": "./images/coiffure-tendance.jpg",
-    "website": "https://coiffure-tendance.com",
+    "website": "https://www.lesfeesshopping.com/fr",
     "mapsUrl": "https://maps.google.com/?q=8+Rue+de+la+Paix+69001+Lyon",
-    "categories": ["Beauté"],
+    "categories": ["Mode"],
     "advantage": {
-      "label": "-20% sur coupe + brushing",
-      "conditions": "Sur RDV uniquement. Valable du mardi au vendredi."
-    },
-    "openingHours": "Mar–Sam 9:00–18:00"
+      "label": "-10 en boutique",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+  
   },
   {
-    "id": "restaurant-bistro",
-    "name": "Le Bistro Gourmand",
-    "address": "23 Place Bellecour, 69002 Lyon",
-    "city": "Lyon",
-    "lat": 45.7578,
-    "lng": 4.8320,
+    "id": "Brasserie-Caulier-Experience",
+    "name": "Brasserie Caulier Experience",
+    "address": "134 Rue de Sondeville, 7600 Péruwelz",
+    "city": "Peruwelz",
+    "lat": 50.502331,
+    "lng":3.587734,
     "photo": "./images/restaurant-bistro.jpg",
-    "website": "https://bistro-gourmand.fr",
-    "mapsUrl": "https://maps.google.com/?q=23+Place+Bellecour+69002+Lyon",
-    "categories": ["Food", "Restaurant"],
+    "website": "https://www.brasseriecaulier.beer/",
+    "mapsUrl": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c2fb212128c69b:0xd6a4b780110a3358?sa=X&ved=1t:8290&ictx=111",
+    "categories": ["Food", "Experience"],
     "advantage": {
-      "label": "Menu découverte offert",
-      "conditions": "Pour 2 personnes minimum. Boissons non comprises."
+      "label": "10% de réduction en magasin",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     "openingHours": "Lun–Dim 12:00–22:00"
   },
@@ -82,7 +81,7 @@
       "label": "-25% sur équipement running",
       "conditions": "Valable sur la gamme Nike et Adidas. Hors promotions."
     },
-    "openingHours": "Lun–Sam 9:30–19:30"
+    
   },
   {
     "id": "librairie-papyrus",
