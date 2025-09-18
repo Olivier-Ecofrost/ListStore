@@ -132,21 +132,21 @@
       "conditions": "Sur présentation de la carte avantages Ecofrost."
   },
   {
-    "id": "patisserie-delice",
-    "name": "Pâtisserie Délice",
-    "address": "15 Place du Capitole, 31000 Toulouse",
-    "city": "Toulouse",
-    "lat": 43.6043,
-    "lng": 1.4437,
+    "id": "Center-Wash-ADN",
+    "name": "Center Wash ADN",
+    "address": "Rue Neuve Chaussée 173, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.525428771972656,
+    "lng": 3.6012380123138428,
     "photo": "./images/patisserie-delice.jpg",
-    "website": "https://patisserie-delice.com",
-    "mapsUrl": "https://maps.google.com/?q=15+Place+du+Capitole+31000+Toulouse",
-    "categories": ["Food"],
+    "website": "https://www.centerwashadn.be/",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Neuve+Chauss%C3%A9e+173,+7600+P%C3%A9ruwelz/@50.5298999,3.5989104,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb6899f2bab5:0xf4533e5041454efb!8m2!3d50.5298965!4d3.60148!16s%2Fg%2F11ckqm2brh?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["Service"],
     "advantage": {
-      "label": "Macaron offert",
-      "conditions": "Pour tout achat supérieur à 15€."
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Mar–Dim 8:00–19:00"
+    "openingHours": "Lun & Dim fermé", "Mar–Sam 9:00–18:00"
   },
   {
     "id": "chaussures-martin",
