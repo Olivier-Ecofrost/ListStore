@@ -10,10 +10,7 @@
     "website": "https://www.facebook.com/people/Sandwicherie-Sobaut-P%C3%A9ruwelz/61560876904982/",
     "mapsUrl": "https://www.google.com/maps/place/Sandwicherie+Sobaut/@50.511539,3.5969603,17z/data=!4m6!3m5!1s0x47c2fb21282dc58d:0xd2dc4d13761a0d6a!8m2!3d50.511539!4d3.5969603!16s%2Fg%2F11g_c3g5h",
     "categories": ["Food"],
-    "advantage": {
-      "label": "-10%",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    },
+    "advantage": {"label": "-10%", "conditions": "Sur présentation de la carte avantages Ecofrost."},
     "openingHours": "Lun–Sam 7:00–15:30"
   },
   {
@@ -27,10 +24,7 @@
     "website": "https://reflex-harmony.be/",
     "mapsUrl": "https://www.bing.com/maps?ty=18&q=R%C3%A9flex%27+Harmony",
     "categories": ["Ressourcement"],
-    "advantage": {
-      "label": "-10% sur les séances",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    },
+    "advantage": {"label": "-10% sur les séances", "conditions": "Sur présentation de la carte avantages Ecofrost."},
     "openingHours": "Mar 09:00–19:00; Mer/Jeu/Ven/Sam/Dim horaire flexible"
   },
   {
@@ -44,10 +38,8 @@
     "website": "https://www.lesfeesshopping.com/fr",
     "mapsUrl": "https://maps.google.com/?q=Rue+Saul+Capron+6+7608+Peruwelz",
     "categories": ["Mode"],
-    "advantage": {
-      "label": "-10%",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    }
+    "advantage": {"label": "-10%", "conditions": "Sur présentation de la carte avantages Ecofrost."},
+    "openingHours": "Non communiqué"
   },
   {
     "id": "Brasserie-Caulier-Experience",
@@ -60,10 +52,7 @@
     "website": "https://www.brasseriecaulier.beer/",
     "mapsUrl": "https://maps.google.com/?q=134+Rue+de+Sondeville+7600+P%C3%A9ruwelz",
     "categories": ["Food", "Experience"],
-    "advantage": {
-      "label": "10% de réduction en magasin",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    },
+    "advantage": {"label": "10% de réduction en magasin", "conditions": "Sur présentation de la carte avantages Ecofrost."},
     "openingHours": "Lun–Dim 12:00–22:00"
   },
   {
@@ -77,10 +66,8 @@
     "website": "https://www.facebook.com/Maurice.traiteur/",
     "mapsUrl": "https://www.google.com/maps/place/Maurice+Traiteur/@50.5065484,3.5904849,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb7018f87f4d:0x9a562c316dde4199!8m2!3d50.506545!4d3.5930545!16s%2Fg%2F11qqbczwxy",
     "categories": ["Food"],
-    "advantage": {
-      "label": "-5% sur les plats et buffets",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    }
+    "advantage": {"label": "-5% sur les plats et buffets", "conditions": "Sur présentation de la carte avantages Ecofrost."},
+    "openingHours": "Non communiqué"
   },
   {
     "id": "Salon-de-coiffure-Yeling",
@@ -93,19 +80,8 @@
     "website": "https://www.salondecoiffureyeling.be/",
     "mapsUrl": "https://www.bing.com/maps?pglt=43&q=salon+de+coiffure+yeling&cvid=f7a1b721cbdd4fafb0586ea15c2bd410&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIICAQQ6QcY_FXSAQg0MzkyajBqMagCALACAA&FORM=ANNAB1&PC=HCTS",
     "categories": ["Beauté"],
-    "advantage": {
-      "label": "-10%",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    },
-    "openingHours": [
-      "Jeu 09:30–18:00",
-      "Ven 08:30–18:00",
-      "Sam 08:30–16:00",
-      "Dim fermé",
-      "Lun 09:30–14:00",
-      "Mar 09:30–18:00",
-      "Mer fermé"
-    ]
+    "advantage": {"label": "-10%", "conditions": "Sur présentation de la carte avantages Ecofrost."},
+    "openingHours": "Jeu 09:30–18:00; Ven 08:30–18:00; Sam 08:30–16:00; Dim fermé; Lun 09:30–14:00; Mar 09:30–18:00; Mer fermé"
   },
   {
     "id": "Virevolte",
@@ -118,19 +94,8 @@
     "website": "https://www.facebook.com/profile.php/?id=100089311727783",
     "mapsUrl": "https://www.google.com/maps/place/Virevolte/@50.512333,3.5894814,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fbc8d2fb5525:0x3a199f938d71e1c7!8m2!3d50.5123296!4d3.592051!16s%2Fg%2F11kbyp3ks4?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
     "categories": ["Mode"],
-    "advantage": {
-      "label": "10% de réduction",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    },
-    "openingHours": [
-      "Lun fermé",
-      "Mar 09:30–18:00",
-      "Mer 09:30–18:00",
-      "Jeu 09:30–18:00",
-      "Ven 09:30–18:00",
-      "Sam 09:30–18:00",
-      "Dim fermé"
-    ]
+    "advantage": {"label": "10% de réduction", "conditions": "Sur présentation de la carte avantages Ecofrost."},
+    "openingHours": "Lun fermé; Mar–Sam 09:30–18:00; Dim fermé"
   },
   {
     "id": "Cass-d-hal",
@@ -143,10 +108,8 @@
     "website": "https://www.facebook.com/people/%F0%9D%98%BE%F0%9D%98%BC%F0%9D%99%8E%F0%9D%99%8E-%F0%9D%98%BF%F0%9D%99%83%F0%9D%98%BC%F0%9D%99%87-%F0%9D%99%8E%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%AC%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%9A/61573220371013/",
     "mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+P%C3%A9ruwelz/@50.5092017,3.5898219,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb22db47194d:0x1d920c92daa2b951!8m2!3d50.5091983!4d3.5923915!16s%2Fg%2F11f3xzvzfl?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
     "categories": ["Food"],
-    "advantage": {
-      "label": "10% de réduction",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    }
+    "advantage": {"label": "10% de réduction", "conditions": "Sur présentation de la carte avantages Ecofrost."},
+    "openingHours": "Non communiqué"
   },
   {
     "id": "Center-Wash-ADN",
@@ -159,15 +122,8 @@
     "website": "https://www.centerwashadn.be/",
     "mapsUrl": "https://www.google.com/maps/place/Rue+Neuve+Chauss%C3%A9e+173,+7600+P%C3%A9ruwelz/@50.5298999,3.5989104,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb6899f2bab5:0xf4533e5041454efb!8m2!3d50.5298965!4d3.60148!16s%2Fg%2F11ckqm2brh?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
     "categories": ["Service"],
-    "advantage": {
-      "label": "10% de réduction",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
-    },
-    "openingHours": [
-      "Lun fermé",
-      "Dim fermé",
-      "Mar–Sam 9:00–18:00"
-    ]
+    "advantage": {"label": "10% de réduction", "conditions": "Sur présentation de la carte avantages Ecofrost."},
+    "openingHours": "Lun fermé; Dim fermé; Mar–Sam 9:00–18:00"
   },
   {
     "id": "chaussures-martin",
@@ -180,10 +136,7 @@
     "website": "https://chaussures-martin.fr",
     "mapsUrl": "https://maps.google.com/?q=78+Rue+d%27Alsace+31000+Toulouse",
     "categories": ["Mode"],
-    "advantage": {
-      "label": "-30% sur la 2ème paire",
-      "conditions": "Offre valable sur articles non soldés."
-    },
+    "advantage": {"label": "-30% sur la 2ème paire", "conditions": "Offre valable sur articles non soldés."},
     "openingHours": "Lun–Sam 10:00–19:00"
   },
   {
@@ -197,11 +150,8 @@
     "website": "https://cafe-boheme.paris",
     "mapsUrl": "https://maps.google.com/?q=12+Rue+Oberkampf+75011+Paris",
     "categories": ["Food", "Café"],
-    "advantage": {
-      "label": "Café + viennoiserie 4€",
-      "conditions": "Jusqu'à 10h30 en semaine."
-    },
-    "openingHours": "Lun–Ven 7:00–18:00, Sam–Dim 8:00–17:00"
+    "advantage": {"label": "Café + viennoiserie 4€", "conditions": "Jusqu'à 10h30 en semaine."},
+    "openingHours": "Lun–Ven 7:00–18:00; Sam–Dim 8:00–17:00"
   },
   {
     "id": "optique-vision",
@@ -214,10 +164,7 @@
     "website": "https://optique-vision-aix.fr",
     "mapsUrl": "https://maps.google.com/?q=45+Cours+Mirabeau+13100+Aix-en-Provence",
     "categories": ["Santé"],
-    "advantage": {
-      "label": "2ème paire à 1€",
-      "conditions": "Sur montures de la collection précédente."
-    },
+    "advantage": {"label": "2ème paire à 1€", "conditions": "Sur montures de la collection précédente."},
     "openingHours": "Lun–Sam 9:00–18:30"
   }
 ]
