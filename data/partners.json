@@ -2,16 +2,16 @@
   {
     "id": "Sandwicherie-Sobaut",
     "name": "Sandwicherie Sobaut",
-    "address": "Rue Pont a la Faulx 75, Internal Postal Box A, 7600 Peruwelz ",
+    "address": "Rue Pont a la Faulx 75, Internal Postal Box A, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.50819,
     "lng": 3.59373,
     "photo": "./images/sobaut.png",
     "website": "https://www.facebook.com/people/Sandwicherie-Sobaut-P%C3%A9ruwelz/61560876904982/",
-    "mapsUrl": "https://www.google.com/maps/place/Sandwicherie+Sobaut/@50.511539,3.5969603,17z/data=!4m6!3m5!1s0x47c2fb21282dc58d:0xd2dc4d13761a0d6a!8m2!3d50.511539!4d3.5969603!16s%2Fg%2F11g_c3g5h?entry=ttu&g_ep=EgoyMDI1MDkwOC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Sandwicherie+Sobaut/@50.511539,3.5969603,17z/data=!4m6!3m5!1s0x47c2fb21282dc58d:0xd2dc4d13761a0d6a!8m2!3d50.511539!4d3.5969603!16s%2Fg%2F11g_c3g5h",
     "categories": ["Food"],
     "advantage": {
-      "label": "-10% ",
+      "label": "-10%",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     "openingHours": "Lun–Sam 7:00–15:30"
@@ -21,11 +21,11 @@
     "name": "Réflex' Harmony",
     "address": "Rue d’Audregnies 83, 7608 Péruwelz",
     "city": "Wiers",
-    "lat": 48.862725,
-    "lng": 2.287592,
+    "lat": 50.5285,
+    "lng": 3.5890,
     "photo": "",
     "website": "https://reflex-harmony.be/",
-    "mapsUrl": "https://www.bing.com/maps?ty=18&q=R%C3%A9flex%27+Harmony&ss=ypid.YN9003x18051757804588522960&ppois=46.41627502441406_6.268735885620117_R%C3%A9flex%27+Harmony_YN9003x18051757804588522960%7E&cp=46.416278%7E6.26873&v=2&sV=1&FORM=MPSRPL&mepi=109%7E%7ETopOfPage%7ELargeMapLink&lvl=16.0",
+    "mapsUrl": "https://www.bing.com/maps?ty=18&q=R%C3%A9flex%27+Harmony",
     "categories": ["Ressourcement"],
     "advantage": {
       "label": "-10% sur les séances",
@@ -36,18 +36,18 @@
   {
     "id": "Les-fées-shopping",
     "name": "Les fées shopping",
-    "address": "Rue Saul Capron 6, 7608 Peruwelz ",
+    "address": "Rue Saul Capron 6, 7608 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.5076194,
-    "lng":3.5407993,
+    "lng": 3.5407993,
     "photo": "./images/coiffure-tendance.jpg",
     "website": "https://www.lesfeesshopping.com/fr",
     "mapsUrl": "https://maps.google.com/?q=8+Rue+de+la+Paix+69001+Lyon",
     "categories": ["Mode"],
     "advantage": {
-      "label": "-10 en boutique",
+      "label": "-10%",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
-  
+    }
   },
   {
     "id": "Brasserie-Caulier-Experience",
