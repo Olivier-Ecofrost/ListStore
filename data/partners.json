@@ -42,7 +42,7 @@
     "lng": 3.5407993,
     "photo": "./images/coiffure-tendance.jpg",
     "website": "https://www.lesfeesshopping.com/fr",
-    "mapsUrl": "https://maps.google.com/?q=8+Rue+de+la+Paix+69001+Lyon",
+    "mapsUrl": "https://maps.google.com/?q=Rue+Saul+Capron+6+7608+Peruwelz",
     "categories": ["Mode"],
     "advantage": {
       "label": "-10%",
@@ -55,10 +55,10 @@
     "address": "134 Rue de Sondeville, 7600 Péruwelz",
     "city": "Peruwelz",
     "lat": 50.502331,
-    "lng":3.587734,
+    "lng": 3.587734,
     "photo": "./images/restaurant-bistro.jpg",
     "website": "https://www.brasseriecaulier.beer/",
-    "mapsUrl": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c2fb212128c69b:0xd6a4b780110a3358?sa=X&ved=1t:8290&ictx=111",
+    "mapsUrl": "https://maps.google.com/?q=134+Rue+de+Sondeville+7600+P%C3%A9ruwelz",
     "categories": ["Food", "Experience"],
     "advantage": {
       "label": "10% de réduction en magasin",
@@ -69,19 +69,18 @@
   {
     "id": "Traiteur-Maurice",
     "name": "Traiteur Maurice",
-    "address": "Boulevard Léopold III 37, 7600 Péruwelz ",
+    "address": "Boulevard Léopold III 37, 7600 Péruwelz",
     "city": "Peruwelz",
     "lat": 50.5065869,
     "lng": 3.5930649,
     "photo": "./images/tm.jpg",
     "website": "https://www.facebook.com/Maurice.traiteur/",
-    "mapsUrl": "https://www.google.com/maps/place/Maurice+Traiteur/@50.5065484,3.5904849,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb7018f87f4d:0x9a562c316dde4199!8m2!3d50.506545!4d3.5930545!16s%2Fg%2F11qqbczwxy?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Maurice+Traiteur/@50.5065484,3.5904849,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb7018f87f4d:0x9a562c316dde4199!8m2!3d50.506545!4d3.5930545!16s%2Fg%2F11qqbczwxy",
     "categories": ["Food"],
     "advantage": {
-      "label": "-5% sur les plats et buffets,"
+      "label": "-5% sur les plats et buffets",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
-    },
-    
+    }
   },
   {
     "id": "librairie-papyrus",
@@ -92,7 +91,7 @@
     "lng": -0.5792,
     "photo": "./images/librairie-papyrus.jpg",
     "website": "https://papyrus-bordeaux.fr",
-    "mapsUrl": "https://maps.google.com/?q=34+Rue+Saint-André+33000+Bordeaux",
+    "mapsUrl": "https://maps.google.com/?q=34+Rue+Saint-Andr%C3%A9+33000+Bordeaux",
     "categories": ["Culture"],
     "advantage": {
       "label": "-5% sur tous les livres",
@@ -160,7 +159,7 @@
     "lng": 1.4548,
     "photo": "./images/chaussures-martin.jpg",
     "website": "https://chaussures-martin.fr",
-    "mapsUrl": "https://maps.google.com/?q=78+Rue+d'Alsace+31000+Toulouse",
+    "mapsUrl": "https://maps.google.com/?q=78+Rue+d%27Alsace+31000+Toulouse",
     "categories": ["Mode"],
     "advantage": {
       "label": "-30% sur la 2ème paire",
