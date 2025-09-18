@@ -83,55 +83,53 @@
     }
   },
   {
-    "id": "librairie-papyrus",
-    "name": "Librairie Papyrus",
+    "id": "Salon-de-coiffure-Yeling",
+    "name": "Salon de coiffure Yeling",
     "address": "34 Rue Saint-André, 33000 Bordeaux",
     "city": "Bordeaux",
     "lat": 44.8378,
     "lng": -0.5792,
     "photo": "./images/librairie-papyrus.jpg",
-    "website": "https://papyrus-bordeaux.fr",
-    "mapsUrl": "https://maps.google.com/?q=34+Rue+Saint-Andr%C3%A9+33000+Bordeaux",
-    "categories": ["Culture"],
+    "website": "https://www.salondecoiffureyeling.be/",
+    "mapsUrl": "https://www.bing.com/maps?pglt=43&q=salon+de+coiffure+yeling&cvid=f7a1b721cbdd4fafb0586ea15c2bd410&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIICAQQ6QcY_FXSAQg0MzkyajBqMagCALACAA&FORM=ANNAB1&PC=HCTS",
+    "categories": ["Beauté"],
     "advantage": {
-      "label": "-5% sur tous les livres",
-      "conditions": "Cumul possible avec carte fidélité. BD exclues."
+      "label": "-10%",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Sam 9:00–19:00"
+    "openingHours": "Jeu 09:30 - 18:00", "Ven 08h30 - 18h00", "Sam 08h30 - 16h00", "Dim  fermé", "Lun 09h30-14h00", "Mar 09h30-18h00", "Mer fermé", 
   },
   {
-    "id": "tech-store",
-    "name": "Tech Store",
-    "address": "92 Rue Sainte-Catherine, 33000 Bordeaux",
-    "city": "Bordeaux",
-    "lat": 44.8414,
-    "lng": -0.5805,
+    "id": "Virevolte",
+    "name": "Virevolte",
+    "address": "42 Rue Astrid, 7600 Péruwelz",
+    "city": "Peruwelz",
+    "lat": 50.5123085,
+    "lng": 3.5920391,
     "photo": "./images/tech-store.jpg",
-    "website": "https://tech-store-bordeaux.com",
-    "mapsUrl": "https://maps.google.com/?q=92+Rue+Sainte-Catherine+33000+Bordeaux",
-    "categories": ["High-Tech"],
+    "website": "https://www.facebook.com/profile.php/?id=100089311727783",
+    "mapsUrl": "https://www.google.com/maps/place/Virevolte/@50.512333,3.5894814,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fbc8d2fb5525:0x3a199f938d71e1c7!8m2!3d50.5123296!4d3.592051!16s%2Fg%2F11kbyp3ks4?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["Mode"],
     "advantage": {
-      "label": "Garantie étendue gratuite",
-      "conditions": "2 ans supplémentaires sur smartphones et tablettes."
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Sam 10:00–19:00"
+    "openingHours": "Lun fermé", "Mar 09h30-18h00", "Mer 09h30-18h00", "Jeu 09h30-18h00","Ven 09h30-18h00", "Sam 09h30-18h00","Dim fermé", 
   },
   {
-    "id": "fleurs-marie",
-    "name": "Fleurs de Marie",
-    "address": "67 Boulevard Haussmann, 75009 Paris",
-    "city": "Paris",
-    "lat": 48.8738,
-    "lng": 2.3332,
+    "id": "Cass-d-hal",
+    "name": "Cass d'Hal",
+    "address": "Rue Albert 1er 3, Peruwelz 7600",
+    "city": "Peruwelz",
+    "lat": 50.509228,
+    "lng": 3.5923486,
     "photo": "./images/fleurs-marie.jpg",
-    "website": "https://fleurs-marie.paris",
-    "mapsUrl": "https://maps.google.com/?q=67+Boulevard+Haussmann+75009+Paris",
-    "categories": ["Jardin"],
+    "website": "https://www.facebook.com/people/%F0%9D%98%BE%F0%9D%98%BC%F0%9D%99%8E%F0%9D%99%8E-%F0%9D%98%BF%F0%9D%99%83%F0%9D%98%BC%F0%9D%99%87-%F0%9D%99%8E%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%AC%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%9A/61573220371013/",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+P%C3%A9ruwelz/@50.5092017,3.5898219,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb22db47194d:0x1d920c92daa2b951!8m2!3d50.5091983!4d3.5923915!16s%2Fg%2F11f3xzvzfl?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["Food"],
     "advantage": {
-      "label": "Bouquet du jour à 19€",
-      "conditions": "Disponible tous les matins jusqu'à 14h."
-    },
-    "openingHours": "Lun–Sam 8:00–19:00"
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
   },
   {
     "id": "patisserie-delice",
