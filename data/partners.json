@@ -22,7 +22,7 @@
     "address": "Rue d’Audregnies 83, 7608 Péruwelz",
     "city": "Wiers",
     "lat": 50.5285,
-    "lng": 3.5890,
+    "lng": 3.589,
     "photo": "./images/reflex.png",
     "website": "https://reflex-harmony.be/",
     "mapsUrl": "https://www.bing.com/maps?ty=18&q=R%C3%A9flex%27+Harmony",
@@ -31,7 +31,7 @@
       "label": "-10% sur les séances",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Mar 09:00–19:00", "Mer/Jeu/Ven/Sam/Dim horaire flexible",
+    "openingHours": "Mar 09:00–19:00; Mer/Jeu/Ven/Sam/Dim horaire flexible"
   },
   {
     "id": "Les-fées-shopping",
@@ -97,7 +97,15 @@
       "label": "-10%",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Jeu 09:30 - 18:00", "Ven 08h30 - 18h00", "Sam 08h30 - 16h00", "Dim  fermé", "Lun 09h30-14h00", "Mar 09h30-18h00", "Mer fermé", 
+    "openingHours": [
+      "Jeu 09:30–18:00",
+      "Ven 08:30–18:00",
+      "Sam 08:30–16:00",
+      "Dim fermé",
+      "Lun 09:30–14:00",
+      "Mar 09:30–18:00",
+      "Mer fermé"
+    ]
   },
   {
     "id": "Virevolte",
@@ -114,7 +122,15 @@
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun fermé", "Mar 09h30-18h00", "Mer 09h30-18h00", "Jeu 09h30-18h00","Ven 09h30-18h00", "Sam 09h30-18h00","Dim fermé", 
+    "openingHours": [
+      "Lun fermé",
+      "Mar 09:30–18:00",
+      "Mer 09:30–18:00",
+      "Jeu 09:30–18:00",
+      "Ven 09:30–18:00",
+      "Sam 09:30–18:00",
+      "Dim fermé"
+    ]
   },
   {
     "id": "Cass-d-hal",
@@ -127,13 +143,13 @@
     "website": "https://www.facebook.com/people/%F0%9D%98%BE%F0%9D%98%BC%F0%9D%99%8E%F0%9D%99%8E-%F0%9D%98%BF%F0%9D%99%83%F0%9D%98%BC%F0%9D%99%87-%F0%9D%99%8E%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%AC%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%9A/61573220371013/",
     "mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+P%C3%A9ruwelz/@50.5092017,3.5898219,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb22db47194d:0x1d920c92daa2b951!8m2!3d50.5091983!4d3.5923915!16s%2Fg%2F11f3xzvzfl?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
     "categories": ["Food"],
-   "advantage": {
-  "label": "10% de réduction",
-  "conditions": "Sur présentation de la carte avantages Ecofrost."
-}
-},
-{
-  "id": "Center-Wash-ADN",
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    }
+  },
+  {
+    "id": "Center-Wash-ADN",
     "name": "Center Wash ADN",
     "address": "Rue Neuve Chaussée 173, 7600 Péruwelz",
     "city": "Péruwelz",
@@ -147,7 +163,11 @@
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun & Dim fermé", "Mar–Sam 9:00–18:00"
+    "openingHours": [
+      "Lun fermé",
+      "Dim fermé",
+      "Mar–Sam 9:00–18:00"
+    ]
   },
   {
     "id": "chaussures-martin",
