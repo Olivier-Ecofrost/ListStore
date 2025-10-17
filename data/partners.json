@@ -186,4 +186,106 @@
     },
     "openingHours": "Lun–Sam 9:00–18:00"
   }
+   {
+    "id": "pasta-di-stephi",
+    "name": "Pasta Di Stephi",
+    "address": "Grand'Place 45, 7600 Péruwelz",
+    "city": "Peruwelz",
+    "lat": 50.5102809,
+    "lng": 3.5931615,
+    "photo": "./images/pasta.png",
+    "website": "https://www.facebook.com/profile.php?id=61575798171314",
+    "mapsUrl": "https://www.google.com/maps/place/Grand-Place+45,+7600+Péruwelz",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Ven 10h30–14h30; Ven–Sam 17h30–21h30"
+  },
+  {
+    "id": "boite-a-malice",
+    "name": "Boîte à malice",
+    "address": "Rue Astrid 44, 7600 Péruwelz, Belgique",
+    "city": "Peruwelz",
+    "lat": 50.5118616,
+    "lng": 3.5924046,
+    "photo": "./images/bam.png",
+    "website": "https://boiteamalice.be/",
+    "mapsUrl": "https://www.google.com/maps/place/La+Boite+à+Malice+Calipage/@50.5123849,3.5920532,15z",
+    "categories": ["Fournitures de bureau", "Informatique", "Librairie"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Sam 9:00–18:00"
+  }
+   {
+    "id": "pasta-di-stephi",
+    "name": "Pasta Di Stephi",
+    "address": "Grand'Place 45, 7600 Péruwelz",
+    "city": "Peruwelz",
+    "lat": 50.5102809,
+    "lng": 3.5931615,
+    "photo": "./images/pasta.png",
+    "website": "https://www.facebook.com/profile.php?id=61575798171314",
+    "mapsUrl": "https://www.google.com/maps/place/Grand-Place+45,+7600+Péruwelz",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Ven 10h30–14h30; Ven–Sam 17h30–21h30"
+  },
+  {
+    "id": "Fleurs-créations",
+    "name": "Fleurs créations",
+    "address": "Rue Astrid 35, 7600 Péruwelz",
+    "city": "Peruwelz",
+    "lat": 50.5081749,
+    "lng": 3.6172375,
+    "photo": "./images/fc.png",
+    "website": "https://www.facebook.com/profile.php?id=100013707095752",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Astrid+35,+7600+P%C3%A9ruwelz/@50.5121502,3.5892708,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb3cfd7f6e93:0x3cef0a190266ec17!8m2!3d50.5121502!4d3.5918457!16s%2Fg%2F11gfmz9h5g?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["décoration", "fleuriste"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun 13h30-18h30 Ma-Sam 09h-18h30 Dim 09h-12h30"
+  }
+  {
+    "id": "88-quai-des-fleurs",
+    "name": "88 Quai des Fleurs",
+    "address": "Rue Neuve Chaussée, 7600 Péruwelz",
+    "city": "Peruwelz",
+    "lat": 50.5081749,
+    "lng": 3.6172375,
+    "photo": "./images/fc.png",
+    "website": "https://www.facebook.com/profile.php?id=100013707095752",
+    "mapsUrl": "https://www.google.com/maps/place/Quai+des+fleurs/@50.523732,3.601425,16z/data=!4m6!3m5!1s0x47c2fbed610d8b77:0xa5413c6a79786ba3!8m2!3d50.5237319!4d3.6014249!16s%2Fg%2F11hn0kx31p?hl=fr&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["décoration", "fleuriste"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun 13h30-18h30 Ma-Sam 09h-18h30 Dim 09h-12h30"
+    }
+    {
+    "id": "boite-a-malice",
+    "name": "Boîte à malice",
+    "address": "Rue Astrid 44, 7600 Péruwelz, Belgique",
+    "city": "Peruwelz",
+    "lat": 50.523373,
+    "lng": 3.6009653,
+    "photo": "./images/qdf.png",
+    "website": "https://www.facebook.com/88.quai.des.fleurs",
+    "mapsUrl": "https://www.google.com/maps/place/La+Boite+à+Malice+Calipage/@50.5123849,3.5920532,15z",
+    "categories": ["Fournitures de bureau", "Informatique", "Librairie"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Sam 9:00–18:00"
+  }
 ]
