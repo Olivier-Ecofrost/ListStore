@@ -114,15 +114,15 @@
   {
     "id": "Q8",
     "name": "Q8",
-    "address": "78 Rue d'Alsace, 31000 Toulouse",
-    "city": "Rue Neuve Chee 62, 7600 Peruwelz",
+    "address": "Rue Neuve Chaussée 64, 7600 Péruwelz",
+    "city": "7600 Peruwelz",
     "lat": 50.51542282104492,
     "lng": 3.5998711585998535,
     "photo": "./images/q8.png",
-    "website": "https://chaussures-martin.fr",
-    "mapsUrl": "https://maps.google.com/?q=78+Rue+d%27Alsace+31000+Toulouse",
-    "categories": ["Mode"],
-    "advantage": {"label": "-30% sur la 2ème paire", "conditions": "Sur présentation de la carte avantages Ecofrost, non valable sur le tabac - alcool - jeux de hasard - essence."},
+    "website": "https://www.q8.be/fr/stations/q8-peruwelz",
+    "mapsUrl": "https://www.bing.com/maps/search?mepi=0~~Embedded~Address_Link&ty=18&v=2&sV=1&FORM=MPSRPL&q=Q8&ss=id.ypid%3AYN7997x5347119400208391021&ppois=50.51662826538086_3.6002790927886963_Q8_YN7997x5347119400208391021~&cp=50.516628~3.600279&lvl=11&style=r",
+    "categories": ["Food"],
+    "advantage": {"label": "10% de réduction", "conditions": "Sur présentation de la carte avantages Ecofrost, non valable sur le tabac - alcool - jeux de hasard - essence."},
     "openingHours": "Ouvert 24h/24h"
   },
   {
