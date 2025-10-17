@@ -19,7 +19,7 @@
   {
     "id": "reflex-harmony",
     "name": "Réflex' Harmony",
-    "address": "Rue d’Audregnies 83, 7608 Péruwelz",
+    "address": "Rue d’Audregnies 83, 7608 Peruwelz",
     "city": "Wiers",
     "lat": 50.5285,
     "lng": 3.589,
@@ -53,13 +53,13 @@
   {
     "id": "brasserie-caulier-experience",
     "name": "Brasserie Caulier Experience",
-    "address": "134 Rue de Sondeville, 7600 Péruwelz",
+    "address": "134 Rue de Sondeville, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.502331,
     "lng": 3.587734,
     "photo": "./images/bc.png",
     "website": "https://www.brasseriecaulier.beer/",
-    "mapsUrl": "https://maps.google.com/?q=134+Rue+de+Sondeville+7600+Péruwelz",
+    "mapsUrl": "https://maps.google.com/?q=134+Rue+de+Sondeville+7600+Peruwelz",
     "categories": ["Food", "Experience"],
     "advantage": {
       "label": "10% de réduction en magasin",
@@ -70,7 +70,7 @@
   {
     "id": "traiteur-maurice",
     "name": "Traiteur Maurice",
-    "address": "Boulevard Léopold III 37, 7600 Péruwelz",
+    "address": "Boulevard Léopold III 37, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.5065869,
     "lng": 3.5930649,
@@ -87,7 +87,7 @@
   {
     "id": "virevolte",
     "name": "Virevolte",
-    "address": "42 Rue Astrid, 7600 Péruwelz",
+    "address": "42 Rue Astrid, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.5123085,
     "lng": 3.5920391,
@@ -110,7 +110,7 @@
     "lng": 3.5923486,
     "photo": "./images/cas.png",
     "website": "https://www.facebook.com/people/Cass-dHal/61573220371013/",
-    "mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+Péruwelz",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+Peruwelz",
     "categories": ["Food"],
     "advantage": {
       "label": "10% de réduction",
@@ -121,13 +121,13 @@
   {
     "id": "center-wash-adn",
     "name": "Center Wash ADN",
-    "address": "Rue Neuve Chaussée 173, 7600 Péruwelz",
+    "address": "Rue Neuve Chaussée 173, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.525429,
     "lng": 3.601238,
     "photo": "./images/1centerwash.png",
     "website": "https://www.centerwashadn.be/",
-    "mapsUrl": "https://www.google.com/maps/place/Rue+Neuve+Chaussée+173,+7600+Péruwelz",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Neuve+Chaussée+173,+7600+Peruwelz",
     "categories": ["Service"],
     "advantage": {
       "label": "10% de réduction",
@@ -138,7 +138,7 @@
   {
     "id": "q8",
     "name": "Q8",
-    "address": "Rue Neuve Chaussée 64, 7600 Péruwelz",
+    "address": "Rue Neuve Chaussée 64, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.515423,
     "lng": 3.599871,
@@ -155,13 +155,13 @@
   {
     "id": "pasta-di-stephi",
     "name": "Pasta Di Stephi",
-    "address": "Grand'Place 45, 7600 Péruwelz",
+    "address": "Grand'Place 45, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.5102809,
     "lng": 3.5931615,
     "photo": "./images/pasta.png",
     "website": "https://www.facebook.com/profile.php?id=61575798171314",
-    "mapsUrl": "https://www.google.com/maps/place/Grand-Place+45,+7600+Péruwelz",
+    "mapsUrl": "https://www.google.com/maps/place/Grand-Place+45,+7600+Peruwelz",
     "categories": ["Food"],
     "advantage": {
       "label": "10% de réduction",
@@ -172,7 +172,7 @@
   {
     "id": "boite-a-malice",
     "name": "Boîte à malice",
-    "address": "Rue Astrid 44, 7600 Péruwelz, Belgique",
+    "address": "Rue Astrid 44, 7600 Peruwelz, Belgique",
     "city": "Peruwelz",
     "lat": 50.5118616,
     "lng": 3.5924046,
@@ -189,14 +189,14 @@
   {
     "id": "fleurs-creations",
     "name": "Fleurs créations",
-    "address": "Rue Astrid 35, 7600 Péruwelz",
+    "address": "Rue Astrid 35, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.5081749,
     "lng": 3.6172375,
     "photo": "./images/fc.png",
     "website": "https://www.facebook.com/profile.php?id=100013707095752",
-    "mapsUrl": "https://www.google.com/maps/place/Rue+Astrid+35,+7600+P%C3%A9ruwelz/@50.5121502,3.5892708,17z",
-    "categories": ["décoration", "fleuriste"],
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Astrid+35,+7600+Peruwelz",
+    "categories": ["Décoration", "Fleuriste"],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -206,36 +206,35 @@
   {
     "id": "88-quai-des-fleurs",
     "name": "88 Quai des Fleurs",
-    "address": "Rue Neuve Chaussée, 7600 Péruwelz",
+    "address": "Rue Neuve Chaussée, 7600 Peruwelz",
     "city": "Peruwelz",
     "lat": 50.523373,
     "lng": 3.6009653,
     "photo": "./images/qdf.png",
     "website": "https://www.facebook.com/88.quai.des.fleurs",
     "mapsUrl": "https://www.google.com/maps/place/Quai+des+fleurs/@50.523732,3.601425,16z",
-    "categories": ["décoration", "fleuriste"],
+    "categories": ["Décoration", "Fleuriste"],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     "openingHours": "Lun 13h30–18h30; Mar–Sam 09h–18h30; Dim 09h–12h30"
-  }
-   {
-    "id": "L'escale-Spa-privatif",
+  },
+  {
+    "id": "lescale-spa-privatif",
     "name": "L'escale Spa Privatif",
     "address": "Chaussée de Douai 208, 7500 Tournai",
     "city": "Tournai",
     "lat": 50.5982957,
     "lng": 3.3731257,
     "photo": "./images/esp.png",
-    "website": "https://www.booking.com/hotel/be/l-escale-spa-privatif.fr.html?aid=357028&label=bin859jc-10CAsoFUIVbC1lc2NhbGUtc3BhLXByaXZhdGlmSA1YA2gViAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK6gcnHBsACAdICJDZiNDE1ZGE5LTQ0MDctNGMyMC05OTNhLTViYmYzNTI3ZmY1NNgCAeACAQ&sid=9e6015c1b03ce603e223e31ac967b79a&dest_id=-1971112&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1760706755&srpvid=53965cdd61ab05e9&type=total&ucfs=1&",
-    "mapsUrl": "https://www.google.com/maps/place/L'escale+Spa+privatif/@50.5972812,3.3681742,17z/data=!4m18!1m8!3m7!1s0x47c2dfcf014f663f:0x9500dcb6df159cc2!2sChau.+de+Douai+208,+7500+Tournai,+Belgique!3b1!8m2!3d50.5972812!4d3.3707491!16s%2Fg%2F11c28hmr2s!3m8!1s0x47c2df6e23af5e95:0x9bfc1917d7748133!5m2!4m1!1i2!8m2!3d50.5972812!4d3.3707491!16s%2Fg%2F11xfdhbnq7?hl=fr&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
-    "categories": ["détente", "activité"],
+    "website": "https://www.booking.com/hotel/be/l-escale-spa-privatif.fr.html",
+    "mapsUrl": "https://www.google.com/maps/place/L'escale+Spa+privatif",
+    "categories": ["Détente", "Activité"],
     "advantage": {
       "label": "15% de réduction",
-      "conditions": "Sur présentation de la carte avantages Ecofrost. Ne pas passez par booking pour reserver, la réduction ne s'applique qu'en passant  directement par Wendy au numéro suivant: 0455 17 09 60. Bien mettre en pièce jointe votre carte Ecofrost."
+      "conditions": "Sur présentation de la carte avantages Ecofrost. Ne pas passer par Booking pour réserver. Réduction valable uniquement en contactant Wendy directement au 0455 17 09 60 et en joignant votre carte Ecofrost."
     },
-    "openingHours": "Voir les disponibilités de la chambre sur Booking"
+    "openingHours": "Voir les disponibilités sur Booking"
   }
-]
 ]
