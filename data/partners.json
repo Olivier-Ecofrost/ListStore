@@ -22,7 +22,7 @@
     "lng": 3.589,
     "photo": "./images/reflex.png",
     "website": "https://reflex-harmony.be/",
-    "mapsUrl": "https://www.bing.com/maps?ty=18&q=R%C3%A9flex%27+Harmony",
+    "mapsUrl": "https://www.google.com/maps/dir//Rue+d'Audregnies+83,+7608+P%C3%A9ruwelz/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x47c2e5b398054001:0x34fa8dc5cf7a0cb4?sa=X&ved=1t:707&ictx=111",
     "categories": ["Ressourcement"],
     "advantage": {"label": "-10% sur les séances", "conditions": "Sur présentation de la carte avantages Ecofrost."},
     "openingHours": "Mar 09:00–19:00; Mer/Jeu/Ven/Sam/Dim horaire flexible"
