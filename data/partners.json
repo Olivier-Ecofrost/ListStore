@@ -70,20 +70,6 @@
     "openingHours": "Non communiqué"
   },
   {
-    "id": "Salon-de-coiffure-Yeling",
-    "name": "Salon de coiffure Yeling",
-    "address": "34 Rue Saint-André, 33000 Bordeaux",
-    "city": "Bordeaux",
-    "lat": 44.8378,
-    "lng": -0.5792,
-    "photo": "./images/yel.png",
-    "website": "https://www.salondecoiffureyeling.be/",
-    "mapsUrl": "https://www.bing.com/maps?pglt=43&q=salon+de+coiffure+yeling&cvid=f7a1b721cbdd4fafb0586ea15c2bd410&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIICAQQ6QcY_FXSAQg0MzkyajBqMagCALACAA&FORM=ANNAB1&PC=HCTS",
-    "categories": ["Beauté"],
-    "advantage": {"label": "-10%", "conditions": "Sur présentation de la carte avantages Ecofrost."},
-    "openingHours": "Jeu 09:30–18:00; Ven 08:30–18:00; Sam 08:30–16:00; Dim fermé; Lun 09:30–14:00; Mar 09:30–18:00; Mer fermé"
-  },
-  {
     "id": "Virevolte",
     "name": "Virevolte",
     "address": "42 Rue Astrid, 7600 Péruwelz",
