@@ -150,6 +150,6 @@
     "website": "https://boiteamalice.be/",
     "mapsUrl": "https://www.google.com/maps/place/La+Boite+%C3%A0+Malice+Calipage/@50.5123849,3.5920532,15z/data=!4m2!3m1!1s0x0:0x59090f4016b25669?sa=X&ved=2ahUKEwiE4ZXr6OnsAhWOzqQKHfXxBU0Q_BIwFnoECBEQBQ",
     "categories": ["Fournitures de bureau", "informatique", "librairie"],
-    "advantage": {"label": "10% de réduction", "conditions": "Sur présentation de la carte avantages Ecofrost."},
+    "advantage": {"label": "10% de réduction", "conditions": "Sur présentation de la carte avantages Ecofrost."
   }
 ]
