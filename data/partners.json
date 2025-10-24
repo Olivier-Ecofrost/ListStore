@@ -305,4 +305,38 @@
     },
     "openingHours": "Lun–Mar fermé; Mer–Ven 07h00–18h30; Sam 07h00–18h00; Dim 07h00–12h30"
   }
+  {
+    "id": "Un-Temps-Pour-L",
+    "name": "Un Temps Pour L",
+    "address": "rue Saint-Amand 20, 7000 Peruwelz",
+    "city": "Péruwelz",
+    "lat": 50.4964631,
+    "lng": 3.6048894,
+    "photo": "./images/L.png",
+    "website": "https://www.facebook.com/TempspourLsr",
+    "mapsUrl": "https://www.google.com/maps/place/Un+temps+pour+L/@50.4964371,3.602352,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fbfae069787b:0x54be05b19b0bbe6b!8m2!3d50.4964371!4d3.6049269!16s%2Fg%2F11wr65qdd_?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["Ressourcement", "Bien-être", "Beauté"],
+    "advantage": {
+      "label": "10 de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Vdd 17h00-19h30; Samedi 09h00-11h30 et 13h00-15h30; Dim Fermé"
+    }
+    {
+    "id": "Indigo",
+    "name": "Indigo",
+    "address": "Bd Léopold III 102, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.503961,
+    "lng": 3.5965182,
+    "photo": "./images/indigo.png",
+    "website": "https://www.facebook.com/indigonailsbelgium/",
+    "mapsUrl": "https://www.google.com/maps/place/Indigonails+Belgique/@50.5314942,3.5964975,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb1f27d20c53:0x2025fd66a3b832a!8m2!3d50.5314942!4d3.5990724!16s%2Fg%2F11gd07_0l_?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "categories": ["Ressourcement", "Bien-être", "Beauté"],
+    "advantage": {
+      "label": "10 de réduction uniquement sur les soins visage et massage",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Vdd 09h00-17h00; Samedi 09h00-15h00; Dim Fermé"
+  }
 ]
