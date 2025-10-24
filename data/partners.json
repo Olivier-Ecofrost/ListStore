@@ -1,344 +1,308 @@
 [
-{
-"id": "sandwicherie-sobaut",
-"name": "Sandwicherie Sobaut",
-"address": "Rue Pont a la Faulx 75, Internal Postal Box A, 7600 Peruwelz",
-"city": "Peruwelz",
-"lat": 50.50819,
-"lng": 3.59373,
-"photo": "./images/sobaut.png",
-"website": "https://www.facebook.com/people/Sandwicherie-Sobaut-P%C3%A9ruwelz/61560876904982/
-",
-"mapsUrl": "https://www.google.com/maps/place/Sandwicherie+Sobaut/@50.511539,3.5969603,17z
-",
-"categories": ["Food"],
-"advantage": {
-"label": "-10%",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun–Sam 7:00–15:30"
-},
-{
-"id": "reflex-harmony",
-"name": "Réflex' Harmony",
-"address": "Rue d’Audregnies 83, 7608 Péruwelz",
-"city": "Wiers",
-"lat": 50.5285,
-"lng": 3.589,
-"photo": "./images/reflex.png",
-"website": "https://reflex-harmony.be/
-",
-"mapsUrl": "https://www.google.com/maps/dir//Rue+d'Audregnies+83,+7608+Péruwelz
-",
-"categories": ["Ressourcement", "Bien-être"],
-"advantage": {
-"label": "-10% sur les séances",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Mar 09:00–19:00; Mer–Dim horaire flexible"
-},
-{
-"id": "les-fees-shopping",
-"name": "Les fées shopping",
-"address": "Rue Saul Capron 6, 7608 Peruwelz",
-"city": "Peruwelz",
-"lat": 50.5076194,
-"lng": 3.5407993,
-"photo": "./images/fees.png",
-"website": "https://www.lesfeesshopping.com/fr
-",
-"mapsUrl": "https://maps.google.com/?q=Rue+Saul+Capron+6+7608+Peruwelz
-",
-"categories": ["Mode", "Vêtement"],
-"advantage": {
-"label": "-10%",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Non communiqué"
-},
-{
-"id": "brasserie-caulier-experience",
-"name": "Brasserie Caulier Experience",
-"address": "134 Rue de Sondeville, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.502331,
-"lng": 3.587734,
-"photo": "./images/bc.png",
-"website": "https://www.brasseriecaulier.beer/
-",
-"mapsUrl": "https://maps.google.com/?q=134+Rue+de+Sondeville+7600+Péruwelz
-",
-"categories": ["Food", "Experience"],
-"advantage": {
-"label": "10% de réduction en magasin",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun–Dim 12:00–22:00"
-},
-{
-"id": "traiteur-maurice",
-"name": "Traiteur Maurice",
-"address": "Boulevard Léopold III 37, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.5065869,
-"lng": 3.5930649,
-"photo": "./images/tm.png",
-"website": "https://www.facebook.com/Maurice.traiteur/
-",
-"mapsUrl": "https://www.google.com/maps/place/Maurice+Traiteur/@50.5065484,3.5904849,17z
-",
-"categories": ["Food"],
-"advantage": {
-"label": "-5% sur les plats et buffets",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Non communiqué"
-},
-{
-"id": "virevolte",
-"name": "Virevolte",
-"address": "42 Rue Astrid, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.5123085,
-"lng": 3.5920391,
-"photo": "./images/virevolte.png",
-"website": "https://www.facebook.com/profile.php/?id=100089311727783
-",
-"mapsUrl": "https://www.google.com/maps/place/Virevolte/@50.512333,3.5894814,17z
-",
-"categories": ["Mode", "Vêtement"],
-"advantage": {
-"label": "10% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun fermé; Mar–Sam 09:30–18:00; Dim fermé"
-},
-{
-"id": "cass-d-hal",
-"name": "Cass d'Hal",
-"address": "Rue Albert 1er 3, 7600 Peruwelz",
-"city": "Peruwelz",
-"lat": 50.509228,
-"lng": 3.5923486,
-"photo": "./images/cas.png",
-"website": "https://www.facebook.com/people/Cass-dHal/61573220371013/
-",
-"mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+Péruwelz
-",
-"categories": ["Food"],
-"advantage": {
-"label": "10% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Non communiqué"
-},
-{
-"id": "center-wash-adn",
-"name": "Center Wash ADN",
-"address": "Rue Neuve Chaussée 173, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.525429,
-"lng": 3.601238,
-"photo": "./images/1centerwash.png",
-"website": "https://www.centerwashadn.be/
-",
-"mapsUrl": "https://www.google.com/maps/place/Rue+Neuve+Chaussée+173,+7600+Péruwelz
-",
-"categories": ["Service"],
-"advantage": {
-"label": "10% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Mar–Sam 9:00–18:00; Dim/Lun fermé"
-},
-{
-"id": "q8",
-"name": "Q8",
-"address": "Rue Neuve Chaussée 64, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.515423,
-"lng": 3.599871,
-"photo": "./images/q8.png",
-"website": "https://www.q8.be/fr/stations/q8-peruwelz
-",
-"mapsUrl": "https://www.bing.com/maps?q=Q8+Peruwelz
-",
-"categories": ["Station-service"],
-"advantage": {
-"label": "10% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost. Non valable sur tabac, alcool, jeux de hasard, essence."
-},
-"openingHours": "Ouvert 24h/24"
-},
-{
-"id": "pasta-di-stephi",
-"name": "Pasta Di Stephi",
-"address": "Grand'Place 45, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.5102809,
-"lng": 3.5931615,
-"photo": "./images/pasta.png",
-"website": "https://www.facebook.com/profile.php?id=61575798171314
-",
-"mapsUrl": "https://www.google.com/maps/place/Grand-Place+45,+7600+Péruwelz
-",
-"categories": ["Food"],
-"advantage": {
-"label": "10% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun–Ven 10h30–14h30; Ven–Sam 17h30–21h30"
-},
-{
-"id": "boite-a-malice",
-"name": "Boîte à malice",
-"address": "Rue Astrid 44, 7600 Péruwelz, Belgique",
-"city": "Peruwelz",
-"lat": 50.5118616,
-"lng": 3.5924046,
-"photo": "./images/bam.png",
-"website": "https://boiteamalice.be/
-",
-"mapsUrl": "https://www.google.com/maps/place/La+Boite+à+Malice+Calipage/@50.5123849,3.5920532,15z
-",
-"categories": ["Fournitures de bureau", "Informatique", "Librairie"],
-"advantage": {
-"label": "10% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun–Sam 9:00–18:00"
-},
-{
-"id": "fleurs-creations",
-"name": "Fleurs créations",
-"address": "Rue Astrid 35, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.5081749,
-"lng": 3.6172375,
-"photo": "./images/fc.png",
-"website": "https://www.facebook.com/profile.php?id=100013707095752
-",
-"mapsUrl": "https://www.google.com/maps/place/Rue+Astrid+35,+7600+Péruwelz
-",
-"categories": ["Décoration", "Fleuriste"],
-"advantage": {
-"label": "5% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun 13h30–18h30; Mar–Sam 09h–18h30; Dim 09h–12h30"
-},
-{
-"id": "88-quai-des-fleurs",
-"name": "88 Quai des Fleurs",
-"address": "Rue Neuve Chaussée, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.523373,
-"lng": 3.6009653,
-"photo": "./images/qdf.png",
-"website": "https://www.facebook.com/88.quai.des.fleurs
-",
-"mapsUrl": "https://www.google.com/maps/place/Quai+des+fleurs/@50.523732,3.601425,16z
-",
-"categories": ["Décoration", "Fleuriste"],
-"advantage": {
-"label": "5% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun 13h30–18h30; Mar–Sam 09h–18h30; Dim 09h–12h30"
-},
-{
-"id": "lescale-spa-privatif",
-"name": "L'escale Spa Privatif",
-"address": "Chaussée de Douai 208, 7500 Tournai",
-"city": "Tournai",
-"lat": 50.5982957,
-"lng": 3.3731257,
-"photo": "./images/escale.png",
-"website": "https://www.booking.com/hotel/be/l-escale-spa-privatif.fr.html
-",
-"mapsUrl": "https://www.google.com/maps/place/L'escale+Spa+privatif
-",
-"categories": ["Ressourcement", "Bien-être"],
-"advantage": {
-"label": "15% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost. Ne pas passer par Booking pour réserver. Réduction valable uniquement en contactant Wendy directement au 0455 17 09 60 et en joignant votre carte Ecofrost."
-},
-"openingHours": "Non communiqué"
-},
-{
-"id": "narcissik",
-"name": "Narcissik",
-"address": "Rue Pont a la Faulx 94, 7600 Peruwelz",
-"city": "Peruwelz",
-"lat": 50.5121382,
-"lng": 3.5992984,
-"photo": "./images/nars.png",
-"website": "http://www.narcissik.be/2015/fr/
-",
-"mapsUrl": "https://www.bing.com/maps/search?q=Narcissik+Peruwelz
-",
-"categories": ["Ressourcement", "Bien-être", "Beauté"],
-"advantage": {
-"label": "5% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Voir les disponibilités sur le site web Narcissik"
-},
-{
-"id": "serendipity-fashion-store",
-"name": "Serendipity Fashion Store",
-"address": "Rue Pont a la Faulx 2, 7600 Peruwelz",
-"city": "Peruwelz",
-"lat": 50.509068,
-"lng": 3.617272,
-"photo": "./images/ser.png",
-"website": "https://www.serendipityfashionstore.be/
-",
-"mapsUrl": "https://www.bing.com/maps/search?q=Serendipity,+Rue+Pont+a+la+Faulx+2,+7600+Péruwelz
-",
-"categories": ["Mode", "Vêtement"],
-"advantage": {
-"label": "5% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Mer–Sam 10h–18h"
-},
-{
-"id": "intermarche-peruwelz",
-"name": "Intermarché Péruwelz",
-"address": "Rue Neuve Chaussée 86C, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.5229985,
-"lng": 3.602393,
-"photo": "./images/inter.png",
-"website": "https://www.intermarche.be/magasins/intermarche-peruwelz/
-",
-"mapsUrl": "https://www.bing.com/maps/search?q=Intermarché+Péruwelz
-",
-"categories": ["Alimentation", "Supermarché"],
-"advantage": {
-"label": "5% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun 09h00–19h30; Mar–Sam 08h30–19h30; Dim 08h30–18h30"
-},
-{
-"id": "graines-de-pain-by-eric-gourdin",
-"name": "Graine de pain by Eric Gourdin",
-"address": "Rue des Français 4, 7600 Péruwelz",
-"city": "Peruwelz",
-"lat": 50.5132907,
-"lng": 3.5943171,
-"photo": "./images/eric.png",
-"website": "https://www.facebook.com/profile.php?id=100063505812973#
-",
-"mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=GRAINES+De+PAIN+By...Eric+GOURDIN%2C+rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&srs=sbs&ss=id.local_ypid%3A%22YN7997x999051578675014922%22&st=GRAINES+De+PAIN+By...Eric+GOURDIN&sfa=rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&cp=50.513901%7E3.588800&lvl=16
-",
-"categories": ["Alimentation", "Boulangerie", "Food"],
-"advantage": {
-"label": "5% de réduction",
-"conditions": "Sur présentation de la carte avantages Ecofrost."
-},
-"openingHours": "Lun–Mar fermé; Mer–Ven 07h00–18h30; Sam 07h00–18h00; Dim 07h00–12h30"
-}
+  {
+    "id": "sandwicherie-sobaut",
+    "name": "Sandwicherie Sobaut",
+    "address": "Rue Pont a la Faulx 75, Internal Postal Box A, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.50819,
+    "lng": 3.59373,
+    "photo": "./images/sobaut.png",
+    "website": "https://www.facebook.com/people/Sandwicherie-Sobaut-P%C3%A9ruwelz/61560876904982/",
+    "mapsUrl": "https://www.google.com/maps/place/Sandwicherie+Sobaut/@50.511539,3.5969603,17z",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "-10%",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Sam 7:00–15:30"
+  },
+  {
+    "id": "reflex-harmony",
+    "name": "Réflex' Harmony",
+    "address": "Rue d’Audregnies 83, 7608 Péruwelz",
+    "city": "Wiers",
+    "lat": 50.5285,
+    "lng": 3.589,
+    "photo": "./images/reflex.png",
+    "website": "https://reflex-harmony.be/",
+    "mapsUrl": "https://www.google.com/maps/dir//Rue+d'Audregnies+83,+7608+Péruwelz",
+    "categories": ["Ressourcement", "Bien-être"],
+    "advantage": {
+      "label": "-10% sur les séances",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Mar 09:00–19:00; Mer–Dim horaire flexible"
+  },
+  {
+    "id": "les-fees-shopping",
+    "name": "Les fées shopping",
+    "address": "Rue Saul Capron 6, 7608 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5076194,
+    "lng": 3.5407993,
+    "photo": "./images/fees.png",
+    "website": "https://www.lesfeesshopping.com/fr",
+    "mapsUrl": "https://maps.google.com/?q=Rue+Saul+Capron+6+7608+Peruwelz",
+    "categories": ["Mode", "Vêtement"],
+    "advantage": {
+      "label": "-10%",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Non communiqué"
+  },
+  {
+    "id": "brasserie-caulier-experience",
+    "name": "Brasserie Caulier Experience",
+    "address": "134 Rue de Sondeville, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.502331,
+    "lng": 3.587734,
+    "photo": "./images/bc.png",
+    "website": "https://www.brasseriecaulier.beer/",
+    "mapsUrl": "https://maps.google.com/?q=134+Rue+de+Sondeville+7600+Péruwelz",
+    "categories": ["Food", "Experience"],
+    "advantage": {
+      "label": "10% de réduction en magasin",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Dim 12:00–22:00"
+  },
+  {
+    "id": "traiteur-maurice",
+    "name": "Traiteur Maurice",
+    "address": "Boulevard Léopold III 37, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5065869,
+    "lng": 3.5930649,
+    "photo": "./images/tm.png",
+    "website": "https://www.facebook.com/Maurice.traiteur/",
+    "mapsUrl": "https://www.google.com/maps/place/Maurice+Traiteur/@50.5065484,3.5904849,17z",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "-5% sur les plats et buffets",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Non communiqué"
+  },
+  {
+    "id": "virevolte",
+    "name": "Virevolte",
+    "address": "42 Rue Astrid, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5123085,
+    "lng": 3.5920391,
+    "photo": "./images/virevolte.png",
+    "website": "https://www.facebook.com/profile.php/?id=100089311727783",
+    "mapsUrl": "https://www.google.com/maps/place/Virevolte/@50.512333,3.5894814,17z",
+    "categories": ["Mode", "Vêtement"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun fermé; Mar–Sam 09:30–18:00; Dim fermé"
+  },
+  {
+    "id": "cass-d-hal",
+    "name": "Cass d'Hal",
+    "address": "Rue Albert 1er 3, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.509228,
+    "lng": 3.5923486,
+    "photo": "./images/cas.png",
+    "website": "https://www.facebook.com/people/Cass-dHal/61573220371013/",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+Péruwelz",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Non communiqué"
+  },
+  {
+    "id": "center-wash-adn",
+    "name": "Center Wash ADN",
+    "address": "Rue Neuve Chaussée 173, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.525429,
+    "lng": 3.601238,
+    "photo": "./images/1centerwash.png",
+    "website": "https://www.centerwashadn.be/",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Neuve+Chaussée+173,+7600+Péruwelz",
+    "categories": ["Service"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Mar–Sam 9:00–18:00; Dim/Lun fermé"
+  },
+  {
+    "id": "q8",
+    "name": "Q8",
+    "address": "Rue Neuve Chaussée 64, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.515423,
+    "lng": 3.599871,
+    "photo": "./images/q8.png",
+    "website": "https://www.q8.be/fr/stations/q8-peruwelz",
+    "mapsUrl": "https://www.bing.com/maps?q=Q8+Peruwelz",
+    "categories": ["Station-service"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost. Non valable sur tabac, alcool, jeux de hasard, essence."
+    },
+    "openingHours": "Ouvert 24h/24"
+  },
+  {
+    "id": "pasta-di-stephi",
+    "name": "Pasta Di Stephi",
+    "address": "Grand'Place 45, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5102809,
+    "lng": 3.5931615,
+    "photo": "./images/pasta.png",
+    "website": "https://www.facebook.com/profile.php?id=61575798171314",
+    "mapsUrl": "https://www.google.com/maps/place/Grand-Place+45,+7600+Péruwelz",
+    "categories": ["Food"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Ven 10h30–14h30; Ven–Sam 17h30–21h30"
+  },
+  {
+    "id": "boite-a-malice",
+    "name": "Boîte à malice",
+    "address": "Rue Astrid 44, 7600 Péruwelz, Belgique",
+    "city": "Péruwelz",
+    "lat": 50.5118616,
+    "lng": 3.5924046,
+    "photo": "./images/bam.png",
+    "website": "https://boiteamalice.be/",
+    "mapsUrl": "https://www.google.com/maps/place/La+Boite+à+Malice+Calipage/@50.5123849,3.5920532,15z",
+    "categories": ["Fournitures de bureau", "Informatique", "Librairie"],
+    "advantage": {
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Sam 9:00–18:00"
+  },
+  {
+    "id": "fleurs-creations",
+    "name": "Fleurs créations",
+    "address": "Rue Astrid 35, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5081749,
+    "lng": 3.6172375,
+    "photo": "./images/fc.png",
+    "website": "https://www.facebook.com/profile.php?id=100013707095752",
+    "mapsUrl": "https://www.google.com/maps/place/Rue+Astrid+35,+7600+Péruwelz",
+    "categories": ["Décoration", "Fleuriste"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun 13h30–18h30; Mar–Sam 09h–18h30; Dim 09h–12h30"
+  },
+  {
+    "id": "88-quai-des-fleurs",
+    "name": "88 Quai des Fleurs",
+    "address": "Rue Neuve Chaussée, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.523373,
+    "lng": 3.6009653,
+    "photo": "./images/qdf.png",
+    "website": "https://www.facebook.com/88.quai.des.fleurs",
+    "mapsUrl": "https://www.google.com/maps/place/Quai+des+fleurs/@50.523732,3.601425,16z",
+    "categories": ["Décoration", "Fleuriste"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun 13h30–18h30; Mar–Sam 09h–18h30; Dim 09h–12h30"
+  },
+  {
+    "id": "lescale-spa-privatif",
+    "name": "L'escale Spa Privatif",
+    "address": "Chaussée de Douai 208, 7500 Tournai",
+    "city": "Tournai",
+    "lat": 50.5982957,
+    "lng": 3.3731257,
+    "photo": "./images/escale.png",
+    "website": "https://www.booking.com/hotel/be/l-escale-spa-privatif.fr.html",
+    "mapsUrl": "https://www.google.com/maps/place/L'escale+Spa+privatif",
+    "categories": ["Ressourcement", "Bien-être"],
+    "advantage": {
+      "label": "15% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost. Ne pas passer par Booking pour réserver. Réduction valable uniquement en contactant Wendy directement au 0455 17 09 60 et en joignant votre carte Ecofrost."
+    },
+    "openingHours": "Non communiqué"
+  },
+  {
+    "id": "narcissik",
+    "name": "Narcissik",
+    "address": "Rue Pont a la Faulx 94, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5121382,
+    "lng": 3.5992984,
+    "photo": "./images/nars.png",
+    "website": "http://www.narcissik.be/2015/fr/",
+    "mapsUrl": "https://www.bing.com/maps/search?q=Narcissik+Peruwelz",
+    "categories": ["Ressourcement", "Bien-être", "Beauté"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Voir les disponibilités sur le site web Narcissik"
+  },
+  {
+    "id": "serendipity-fashion-store",
+    "name": "Serendipity Fashion Store",
+    "address": "Rue Pont a la Faulx 2, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.509068,
+    "lng": 3.617272,
+    "photo": "./images/ser.png",
+    "website": "https://www.serendipityfashionstore.be/",
+    "mapsUrl": "https://www.bing.com/maps/search?q=Serendipity,+Rue+Pont+a+la+Faulx+2,+7600+Péruwelz",
+    "categories": ["Mode", "Vêtement"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Mer–Sam 10h–18h"
+  },
+  {
+    "id": "intermarche-peruwelz",
+    "name": "Intermarché Péruwelz",
+    "address": "Rue Neuve Chaussée 86C, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5229985,
+    "lng": 3.602393,
+    "photo": "./images/inter.png",
+    "website": "https://www.intermarche.be/magasins/intermarche-peruwelz/",
+    "mapsUrl": "https://www.bing.com/maps/search?q=Intermarché+Péruwelz",
+    "categories": ["Alimentation", "Supermarché"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun 09h00–19h30; Mar–Sam 08h30–19h30; Dim 08h30–18h30"
+  },
+  {
+    "id": "graines-de-pain-by-eric-gourdin",
+    "name": "Graine de pain by Eric Gourdin",
+    "address": "Rue des Français 4, 7600 Péruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5132907,
+    "lng": 3.5943171,
+    "photo": "./images/eric.png",
+    "website": "https://www.facebook.com/profile.php?id=100063505812973#",
+    "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=GRAINES+De+PAIN+By...Eric+GOURDIN%2C+rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&srs=sbs&ss=id.local_ypid%3A%22YN7997x999051578675014922%22&st=GRAINES+De+PAIN+By...Eric+GOURDIN&sfa=rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&cp=50.513901%7E3.588800&lvl=16",
+    "categories": ["Alimentation", "Boulangerie", "Food"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun–Mar fermé; Mer–Ven 07h00–18h30; Sam 07h00–18h00; Dim 07h00–12h30"
+  }
 ]
