@@ -26,7 +26,7 @@
     "photo": "./images/reflex.png",
     "website": "https://reflex-harmony.be/",
     "mapsUrl": "https://www.google.com/maps/dir//Rue+d'Audregnies+83,+7608+Péruwelz",
-    "categories": ["Ressourcement"],
+    "categories": ["Ressourcement", "Bien-être"],
     "advantage": {
       "label": "-10% sur les séances",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -230,7 +230,7 @@
     "photo": "./images/esp.png",
     "website": "https://www.booking.com/hotel/be/l-escale-spa-privatif.fr.html",
     "mapsUrl": "https://www.google.com/maps/place/L'escale+Spa+privatif",
-    "categories": ["Détente", "Activité"],
+    "categories": ["Ressourcement", "Bien-être"],
     "advantage": {
       "label": "15% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost. Ne pas passer par Booking pour réserver. Réduction valable uniquement en contactant Wendy directement au 0455 17 09 60 et en joignant votre carte Ecofrost."
@@ -247,7 +247,7 @@
     "photo": "./images/nars.png",
     "website": "http://www.narcissik.be/2015/fr/",
     "mapsUrl": "https://www.bing.com/maps/search?q=Narcissik+Peruwelz",
-    "categories": ["Détente", "Bien-être", "Beauté"],
+    "categories": ["Ressourcement", "Bien-être", "beauté"],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
