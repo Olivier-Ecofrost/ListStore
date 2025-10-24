@@ -43,7 +43,7 @@
     "photo": "./images/fees.png",
     "website": "https://www.lesfeesshopping.com/fr",
     "mapsUrl": "https://maps.google.com/?q=Rue+Saul+Capron+6+7608+Peruwelz",
-    "categories": ["Mode"],
+    "categories": ["Mode", "Vêtement"],
     "advantage": {
       "label": "-10%",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -94,7 +94,7 @@
     "photo": "./images/virevolte.png",
     "website": "https://www.facebook.com/profile.php/?id=100089311727783",
     "mapsUrl": "https://www.google.com/maps/place/Virevolte/@50.512333,3.5894814,17z",
-    "categories": ["Mode"],
+    "categories": ["Mode", "Vêtement"],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
