@@ -288,4 +288,21 @@
     },
     "openingHours": "Lun 09h00–19h30; Mar–Sam 08h30–19h30; Dim 08h30–18h30"
   }
+  {
+    "id": "Graines-de-pain-by-Eric-Gourdin",
+    "name": "Graine de pain by Eric Gourdin",
+    "address": "rue des français n°4, 7600 Péruwelz ",
+    "city": "Peruwelz",
+    "lat": 50.5132907,
+    "lng": 3.5943171,
+    "photo": "./images/eric.png",
+    "website": "https://www.facebook.com/profile.php?id=100063505812973#",
+    "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=GRAINES+De+PAIN+By...Eric+GOURDIN%2C+rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&srs=sbs&ss=id.local_ypid%3A%22YN7997x999051578675014922%22&st=GRAINES+De+PAIN+By...Eric+GOURDIN&sfa=rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&cp=50.513901%7E3.588800&lvl=16",
+    "categories": ["Alimentation", "Boulangerie", "Food"],
+    "advantage": {
+      "label": "5% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
+    },
+    "openingHours": "Lun-Ma fermé; Mer-Vdd 07h00-18h30; Sam 07h00-18h00; Dimanche 07h00-12h30"
+  }
 ]
