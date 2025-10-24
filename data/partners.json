@@ -247,7 +247,7 @@
     "photo": "./images/nars.png",
     "website": "http://www.narcissik.be/2015/fr/",
     "mapsUrl": "https://www.bing.com/maps/search?q=Narcissik+Peruwelz",
-    "categories": ["Ressourcement", "Bien-être", "beauté"],
+    "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -287,11 +287,11 @@
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     "openingHours": "Lun 09h00–19h30; Mar–Sam 08h30–19h30; Dim 08h30–18h30"
-  }
+  },
   {
-    "id": "Graines-de-pain-by-Eric-Gourdin",
+    "id": "graines-de-pain-by-eric-gourdin",
     "name": "Graine de pain by Eric Gourdin",
-    "address": "rue des français n°4, 7600 Péruwelz ",
+    "address": "Rue des Français 4, 7600 Péruwelz",
     "city": "Peruwelz",
     "lat": 50.5132907,
     "lng": 3.5943171,
@@ -303,6 +303,6 @@
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun-Ma fermé; Mer-Vdd 07h00-18h30; Sam 07h00-18h00; Dimanche 07h00-12h30"
+    "openingHours": "Lun–Mar fermé; Mer–Ven 07h00–18h30; Sam 07h00–18h00; Dim 07h00–12h30"
   }
 ]
