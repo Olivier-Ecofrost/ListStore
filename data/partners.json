@@ -2,7 +2,7 @@
   {
     "id": "sandwicherie-sobaut",
     "name": "Sandwicherie Sobaut",
-    "address": "Rue Pont a la Faulx 75, Internal Postal Box A, 7600 Péruwelz",
+    "address": "Rue Pont à la Faulx 75, Internal Postal Box A, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.50819,
     "lng": 3.59373,
@@ -14,7 +14,7 @@
       "label": "-10%",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Sam 7:00–15:30"
+    "openingHours": "Lun–Sam 07:00–15:30"
   },
   {
     "id": "reflex-harmony",
@@ -53,7 +53,7 @@
   {
     "id": "brasserie-caulier-experience",
     "name": "Brasserie Caulier Experience",
-    "address": "134 Rue de Sondeville, 7600 Péruwelz",
+    "address": "Rue de Sondeville 134, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.502331,
     "lng": 3.587734,
@@ -87,7 +87,7 @@
   {
     "id": "virevolte",
     "name": "Virevolte",
-    "address": "42 Rue Astrid, 7600 Péruwelz",
+    "address": "Rue Astrid 42, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.5123085,
     "lng": 3.5920391,
@@ -133,7 +133,7 @@
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Mar–Sam 9:00–18:00; Dim/Lun fermé"
+    "openingHours": "Mar–Sam 09:00–18:00; Dim/Lun fermé"
   },
   {
     "id": "q8",
@@ -155,7 +155,7 @@
   {
     "id": "pasta-di-stephi",
     "name": "Pasta Di Stephi",
-    "address": "Grand'Place 45, 7600 Péruwelz",
+    "address": "Grand-Place 45, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.5102809,
     "lng": 3.5931615,
@@ -167,12 +167,12 @@
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Ven 10h30–14h30; Ven–Sam 17h30–21h30"
+    "openingHours": "Lun–Ven 10:30–14:30; Ven–Sam 17:30–21:30"
   },
   {
     "id": "boite-a-malice",
     "name": "Boîte à malice",
-    "address": "Rue Astrid 44, 7600 Péruwelz, Belgique",
+    "address": "Rue Astrid 44, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.5118616,
     "lng": 3.5924046,
@@ -184,7 +184,7 @@
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Sam 9:00–18:00"
+    "openingHours": "Lun–Sam 09:00–18:00"
   },
   {
     "id": "fleurs-creations",
@@ -201,7 +201,7 @@
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun 13h30–18h30; Mar–Sam 09h–18h30; Dim 09h–12h30"
+    "openingHours": "Lun 13:30–18:30; Mar–Sam 09:00–18:30; Dim 09:00–12:30"
   },
   {
     "id": "88-quai-des-fleurs",
@@ -218,7 +218,7 @@
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun 13h30–18h30; Mar–Sam 09h–18h30; Dim 09h–12h30"
+    "openingHours": "Lun 13:30–18:30; Mar–Sam 09:00–18:30; Dim 09:00–12:30"
   },
   {
     "id": "lescale-spa-privatif",
@@ -240,7 +240,7 @@
   {
     "id": "narcissik",
     "name": "Narcissik",
-    "address": "Rue Pont a la Faulx 94, 7600 Péruwelz",
+    "address": "Rue Pont à la Faulx 94, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.5121382,
     "lng": 3.5992984,
@@ -257,7 +257,7 @@
   {
     "id": "serendipity-fashion-store",
     "name": "Serendipity Fashion Store",
-    "address": "Rue Pont a la Faulx 2, 7600 Péruwelz",
+    "address": "Rue Pont à la Faulx 2, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.509068,
     "lng": 3.617272,
@@ -269,7 +269,7 @@
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Mer–Sam 10h–18h"
+    "openingHours": "Mer–Sam 10:00–18:00"
   },
   {
     "id": "intermarche-peruwelz",
@@ -286,7 +286,7 @@
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun 09h00–19h30; Mar–Sam 08h30–19h30; Dim 08h30–18h30"
+    "openingHours": "Lun 09:00–19:30; Mar–Sam 08:30–19:30; Dim 08:30–18:30"
   },
   {
     "id": "graines-de-pain-by-eric-gourdin",
@@ -296,47 +296,47 @@
     "lat": 50.5132907,
     "lng": 3.5943171,
     "photo": "./images/eric.png",
-    "website": "https://www.facebook.com/profile.php?id=100063505812973#",
-    "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=GRAINES+De+PAIN+By...Eric+GOURDIN%2C+rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&srs=sbs&ss=id.local_ypid%3A%22YN7997x999051578675014922%22&st=GRAINES+De+PAIN+By...Eric+GOURDIN&sfa=rue+des+fran%C3%A7ais+n%C2%B04%2C+7600+P%C3%A9ruwelz%2C+Belgique&cp=50.513901%7E3.588800&lvl=16",
+    "website": "https://www.facebook.com/profile.php?id=100063505812973",
+    "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=GRAINES+De+PAIN+By...Eric+GOURDIN%2C+rue+des+français+n%C2%B04%2C+7600+Péruwelz%2C+Belgique",
     "categories": ["Alimentation", "Boulangerie", "Food"],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Mar fermé; Mer–Ven 07h00–18h30; Sam 07h00–18h00; Dim 07h00–12h30"
-  }
+    "openingHours": "Lun–Mar fermé; Mer–Ven 07:00–18:30; Sam 07:00–18:00; Dim 07:00–12:30"
+  },
   {
-    "id": "Un-Temps-Pour-L",
+    "id": "un-temps-pour-l",
     "name": "Un Temps Pour L",
-    "address": "rue Saint-Amand 20, 7000 Peruwelz",
+    "address": "Rue de Saint-Amand 20, 7603 Bon-Secours",
     "city": "Péruwelz",
-    "lat": 50.4964631,
-    "lng": 3.6048894,
+    "lat": 50.4964371,
+    "lng": 3.6049269,
     "photo": "./images/L.png",
     "website": "https://www.facebook.com/TempspourLsr",
-    "mapsUrl": "https://www.google.com/maps/place/Un+temps+pour+L/@50.4964371,3.602352,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fbfae069787b:0x54be05b19b0bbe6b!8m2!3d50.4964371!4d3.6049269!16s%2Fg%2F11wr65qdd_?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "mapsUrl": "https://www.google.com/maps/place/Un+temps+pour+L/@50.4964371,3.602352,17z",
     "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
-      "label": "10 de réduction",
+      "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Vdd 17h00-19h30; Samedi 09h00-11h30 et 13h00-15h30; Dim Fermé"
-    }
-    {
-    "id": "Indigo",
-    "name": "Indigo",
+    "openingHours": "Lun–Ven 17:00–19:30; Sam 09:00–11:30, 13:00–15:30; Dim fermé"
+  },
+  {
+    "id": "indigo",
+    "name": "Indigo Lab",
     "address": "Bd Léopold III 102, 7600 Péruwelz",
     "city": "Péruwelz",
-    "lat": 50.503961,
-    "lng": 3.5965182,
+    "lat": 50.5314942,
+    "lng": 3.5990724,
     "photo": "./images/indigo.png",
-    "website": "https://www.facebook.com/indigonailsbelgium/",
-    "mapsUrl": "https://www.google.com/maps/place/Indigonails+Belgique/@50.5314942,3.5964975,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2fb1f27d20c53:0x2025fd66a3b832a!8m2!3d50.5314942!4d3.5990724!16s%2Fg%2F11gd07_0l_?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+    "website": "https://institut-de-beaute-indigolab.be/",
+    "mapsUrl": "https://www.google.com/maps/place/Indigo+Lab+Institut+Péruwelz",
     "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
-      "label": "10 de réduction uniquement sur les soins visage et massage",
+      "label": "10% de réduction uniquement sur les soins visage et massage",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "Lun–Vdd 09h00-17h00; Samedi 09h00-15h00; Dim Fermé"
+    "openingHours": "Lun fermé; Mar–Ven 09:00–18:00; Sam 09:00–15:00; Dim fermé"
   }
 ]
