@@ -250,7 +250,7 @@
     "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
       "label": "5% de réduction",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
+      "conditions": "Sur présentation de la carte avantages Ecofrost et sous réserve de promotion (des prestations peuvent être indisponible pour la promotion)."
     },
     "openingHours": "Voir les disponibilités sur le site web Narcissik"
   },
@@ -300,7 +300,7 @@
     "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=GRAINES+De+PAIN+By...Eric+GOURDIN%2C+rue+des+français+n%C2%B04%2C+7600+Péruwelz%2C+Belgique",
     "categories": ["Alimentation", "Boulangerie", "Food"],
     "advantage": {
-      "label": "5% de réduction",
+      "label": "Réduction à determiner",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     "openingHours": "Lun–Mar fermé; Mer–Ven 07:00–18:30; Sam 07:00–18:00; Dim 07:00–12:30"
@@ -335,7 +335,7 @@
     "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
       "label": "10% de réduction uniquement sur les soins visage et massage",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
+      "conditions": "Sur présentation de la carte avantages Ecofrost et uniquement sur les soins visage et massage"
     },
     "openingHours": "Lun fermé; Mar–Ven 09:00–18:00; Sam 09:00–15:00; Dim fermé"
   }
