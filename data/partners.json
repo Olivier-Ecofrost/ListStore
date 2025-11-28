@@ -338,5 +338,21 @@
       "conditions": "Sur présentation de la carte avantages Ecofrost et uniquement sur les soins visage et massage"
     },
     "openingHours": "Lun fermé; Mar–Ven 09:00–18:00; Sam 09:00–15:00; Dim fermé"
-  }
+  },
+  {
+    "id": "By-Giò-Trattoria/Osteria",
+    "name": "By Giò - Trattoria/Osteria",
+    "address": "Rue Albert 1er 24, 7600 Peruwelz",
+    "city": "Péruwelz",
+    "lat": 50.5089078,
+    "lng": 3.5913551,
+    "photo": "./images/indigo.png",
+    "website": "https://app.eatself.com/3348/accueil",
+    "mapsUrl": "https://www.bing.com/maps/search?mepi=0%7E%7EEmbedded%7EAddress_Link&ty=18&v=2&sV=1&FORM=MPSRPL&q=By+Gi%C3%B2+-+Trattoria%2FOsteria&ss=id.ypid%3AYN7997x2014074230806603578&ppois=50.5088996887207_3.5913500785827637_By+Gi%C3%B2+-+Trattoria%2FOsteria_YN7997x2014074230806603578%7E&cp=50.508900%7E3.591350&lvl=11&style=r",
+    "categories": ["food"],
+    "advantage": {
+      "label": "10% de réduction uniquement",
+      "conditions": "Sur présentation de la carte avantages Ecofrost"
+    },
+    "openingHours": "voir site web (horaire sppécifique)"
 ]
