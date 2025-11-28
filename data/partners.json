@@ -250,9 +250,9 @@
     "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
       "label": "5% de réduction",
-      "conditions": "Sur présentation de la carte avantages Ecofrost et sous réserve de promotion (des prestations peuvent être indisponible pour la promotion)."
+      "conditions": "Sur présentation de la carte avantages Ecofrost et sous réserve de promotion."
     },
-    "openingHours": "Voir les disponibilités sur le site web Narcissik"
+    "openingHours": "Voir les disponibilités sur le site web"
   },
   {
     "id": "serendipity-fashion-store",
@@ -297,10 +297,10 @@
     "lng": 3.5943171,
     "photo": "./images/eric.png",
     "website": "https://www.facebook.com/profile.php?id=100063505812973",
-    "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=GRAINES+De+PAIN+By...Eric+GOURDIN%2C+rue+des+français+n%C2%B04%2C+7600+Péruwelz%2C+Belgique",
+    "mapsUrl": "https://www.bing.com/maps/search?q=Graine+de+pain+Péruwelz",
     "categories": ["Alimentation", "Boulangerie", "Food"],
     "advantage": {
-      "label": "Réduction à determiner",
+      "label": "Réduction à déterminer",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     "openingHours": "Lun–Mar fermé; Mer–Ven 07:00–18:30; Sam 07:00–18:00; Dim 07:00–12:30"
@@ -323,7 +323,7 @@
     "openingHours": "Lun–Ven 17:00–19:30; Sam 09:00–11:30, 13:00–15:30; Dim fermé"
   },
   {
-    "id": "indigo",
+    "id": "indigo-lab",
     "name": "Indigo Lab",
     "address": "Bd Léopold III 102, 7600 Péruwelz",
     "city": "Péruwelz",
@@ -335,24 +335,25 @@
     "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
       "label": "10% de réduction uniquement sur les soins visage et massage",
-      "conditions": "Sur présentation de la carte avantages Ecofrost et uniquement sur les soins visage et massage"
+      "conditions": "Sur présentation de la carte avantages Ecofrost"
     },
     "openingHours": "Lun fermé; Mar–Ven 09:00–18:00; Sam 09:00–15:00; Dim fermé"
   },
   {
-    "id": "By-Giò-Trattoria/Osteria",
+    "id": "by-gio-trattoria-osteria",
     "name": "By Giò - Trattoria/Osteria",
-    "address": "Rue Albert 1er 24, 7600 Peruwelz",
+    "address": "Rue Albert 1er 24, 7600 Péruwelz",
     "city": "Péruwelz",
     "lat": 50.5089078,
     "lng": 3.5913551,
-    "photo": "./images/indigo.png",
+    "photo": "./images/gio.png",
     "website": "https://app.eatself.com/3348/accueil",
-    "mapsUrl": "https://www.bing.com/maps/search?mepi=0%7E%7EEmbedded%7EAddress_Link&ty=18&v=2&sV=1&FORM=MPSRPL&q=By+Gi%C3%B2+-+Trattoria%2FOsteria&ss=id.ypid%3AYN7997x2014074230806603578&ppois=50.5088996887207_3.5913500785827637_By+Gi%C3%B2+-+Trattoria%2FOsteria_YN7997x2014074230806603578%7E&cp=50.508900%7E3.591350&lvl=11&style=r",
-    "categories": ["food"],
+    "mapsUrl": "https://www.bing.com/maps/search?q=By+Giò+-+Trattoria+Osteria+Péruwelz",
+    "categories": ["Food"],
     "advantage": {
-      "label": "10% de réduction uniquement",
-      "conditions": "Sur présentation de la carte avantages Ecofrost"
+      "label": "10% de réduction",
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
-    "openingHours": "voir site web (horaire sppécifique)"
+    "openingHours": "Voir site web (horaires spécifiques)"
+  }
 ]
