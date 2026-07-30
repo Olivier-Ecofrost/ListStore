@@ -424,7 +424,7 @@
     "city": "Mons",
     "lat": 50.461609,
     "lng": 3.9356772,
-    "photo": "./images/gio.png",
+    "photo": "./images/-6.png",
     "website": "https://tickets.imagix.be/",
     "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=Imagix+Mons&ss=id.ypid%3AA1B36026A25855B6",
     "categories": [
@@ -443,7 +443,7 @@
     "city": "Tournai",
     "lat": 50.6146896,
     "lng": 3.3855906,
-    "photo": "./images/gio.png",
+    "photo": "./images/-6.png",
     "website": "https://tickets.imagix.be/",
     "mapsUrl": "https://www.bing.com/maps/search?name=IMAGIX&trfc=&mepi=0%7E%7EEmbedded%7ELargeMapLink&FORM=MPSRPL&style=r&q=IMAGIX&ss=id.ypid%3AYNAE62E0B6FF5E1DD2&ppois=50.61498260498047_3.3856194019317627_IMAGIX&cp=50.614983%7E3.385619&lvl=15",
     "categories": [
