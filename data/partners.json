@@ -335,7 +335,7 @@
     "categories": ["Ressourcement", "Bien-être", "Beauté"],
     "advantage": {
       "label": "10% de réduction uniquement sur les soins visage et massage",
-      "conditions": "Sur présentation de la carte avantages Ecofrost"
+      "conditions": "Sur présentation de la carte avantages Ecofrost."
     },
     "openingHours": "Lun fermé; Mar–Ven 09:00–18:00; Sam 09:00–15:00; Dim fermé"
   },
@@ -344,16 +344,49 @@
     "name": "By Giò - Trattoria/Osteria",
     "address": "Rue Albert 1er 24, 7600 Péruwelz",
     "city": "Péruwelz",
-    "lat": 50.5089078,
-    "lng": 3.5913551,
+    "lat": 50.461609,
+    "lng": 3.9356772,
     "photo": "./images/gio.png",
-    "website": "https://app.eatself.com/3348/accueil",
-    "mapsUrl": "https://www.bing.com/maps/search?q=By+Giò+-+Trattoria+Osteria+Péruwelz",
-    "categories": ["Food"],
+    "website": "https://tickets.imagix.be/",
+    "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=Imagix+Mons&ss=id.ypid%3AA1B36026A25855B6",
+    "categories": ["Divertissement"],
     "advantage": {
-      "label": "10% de réduction",
-      "conditions": "Sur présentation de la carte avantages Ecofrost."
+      "label": "tickets 2D en ligne et aux guichets à 9.30 euros au lieu du tarif habituel",
+      "conditions": "Avec le code IMAGIXFROST26."
     },
     "openingHours": "Voir site web (horaires spécifiques)"
-  }
+  },
+  {
+    "id": "IMAGIX-MONS",
+    "name": "IMAGIX MONS",
+    "address": "Boulevard André Delvaux 1, 7000 Mons",
+    "city": "MONS"
+    "lat": 50.461609,
+    "lng": 3.9356772,
+    "photo": "./images/gio.png",
+    "website": "https://tickets.imagix.be/",
+    "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=Imagix+Mons&ss=id.ypid%3AA1B36026A25855B6",
+    "categories": ["Divertissement"],
+    "advantage": {
+      "label": "tickets 2D en ligne et aux guichets à 9.30 euros au lieu du tarif habituel",
+      "conditions": "Avec le code IMAGIXFROST26."
+    },
+    "openingHours": "Voir site web (horaires spécifiques)"
+  },
+  {
+    "id": "IMAGIX-TOURNAI",
+    "name": "IMAGIX TOURNAI",
+    "address": "Boulevard Delwart 60, 7500 Tournai",
+    "city": "Tournai"
+    "lat": 50.6146896,
+    "lng": 3.3855906,
+    "photo": "./images/gio.png",
+    "website": "https://tickets.imagix.be/",
+    "mapsUrl": "https://www.bing.com/maps/search?name=IMAGIX&trfc=&mepi=0%7E%7EEmbedded%7ELargeMapLink&FORM=MPSRPL&style=r&q=IMAGIX&ss=id.ypid%3AYNAE62E0B6FF5E1DD2&ppois=50.61498260498047_3.3856194019317627_IMAGIX&cp=50.614983%7E3.385619&lvl=15",
+    "categories": ["Divertissement"],
+    "advantage": {
+      "label": "tickets 2D en ligne et aux guichets à 9.30 euros au lieu du tarif habituel",
+      "conditions": "Avec le code IMAGIXFROST26."
+    },
+    "openingHours": "Voir site web (horaires spécifiques)"
 ]
