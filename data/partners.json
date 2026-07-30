@@ -9,7 +9,9 @@
     "photo": "./images/sobaut.png",
     "website": "https://www.facebook.com/people/Sandwicherie-Sobaut-P%C3%A9ruwelz/61560876904982/",
     "mapsUrl": "https://www.google.com/maps/place/Sandwicherie+Sobaut/@50.511539,3.5969603,17z",
-    "categories": ["Food"],
+    "categories": [
+      "Food"
+    ],
     "advantage": {
       "label": "-10%",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -26,7 +28,10 @@
     "photo": "./images/reflex.png",
     "website": "https://reflex-harmony.be/",
     "mapsUrl": "https://www.google.com/maps/dir//Rue+d'Audregnies+83,+7608+Péruwelz",
-    "categories": ["Ressourcement", "Bien-être"],
+    "categories": [
+      "Ressourcement",
+      "Bien-être"
+    ],
     "advantage": {
       "label": "-10% sur les séances",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -43,7 +48,10 @@
     "photo": "./images/fees.png",
     "website": "https://www.lesfeesshopping.com/fr",
     "mapsUrl": "https://maps.google.com/?q=Rue+Saul+Capron+6+7608+Peruwelz",
-    "categories": ["Mode", "Vêtement"],
+    "categories": [
+      "Mode",
+      "Vêtement"
+    ],
     "advantage": {
       "label": "-10%",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -60,7 +68,10 @@
     "photo": "./images/bc.png",
     "website": "https://www.brasseriecaulier.beer/",
     "mapsUrl": "https://maps.google.com/?q=134+Rue+de+Sondeville+7600+Péruwelz",
-    "categories": ["Food", "Experience"],
+    "categories": [
+      "Food",
+      "Experience"
+    ],
     "advantage": {
       "label": "10% de réduction en magasin",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -77,7 +88,9 @@
     "photo": "./images/tm.png",
     "website": "https://www.facebook.com/Maurice.traiteur/",
     "mapsUrl": "https://www.google.com/maps/place/Maurice+Traiteur/@50.5065484,3.5904849,17z",
-    "categories": ["Food"],
+    "categories": [
+      "Food"
+    ],
     "advantage": {
       "label": "-5% sur les plats et buffets",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -94,7 +107,10 @@
     "photo": "./images/virevolte.png",
     "website": "https://www.facebook.com/profile.php/?id=100089311727783",
     "mapsUrl": "https://www.google.com/maps/place/Virevolte/@50.512333,3.5894814,17z",
-    "categories": ["Mode", "Vêtement"],
+    "categories": [
+      "Mode",
+      "Vêtement"
+    ],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -111,7 +127,9 @@
     "photo": "./images/cas.png",
     "website": "https://www.facebook.com/people/Cass-dHal/61573220371013/",
     "mapsUrl": "https://www.google.com/maps/place/Rue+Albert+1er+3,+7600+Péruwelz",
-    "categories": ["Food"],
+    "categories": [
+      "Food"
+    ],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -128,7 +146,9 @@
     "photo": "./images/1centerwash.png",
     "website": "https://www.centerwashadn.be/",
     "mapsUrl": "https://www.google.com/maps/place/Rue+Neuve+Chaussée+173,+7600+Péruwelz",
-    "categories": ["Service"],
+    "categories": [
+      "Service"
+    ],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -145,7 +165,9 @@
     "photo": "./images/q8.png",
     "website": "https://www.q8.be/fr/stations/q8-peruwelz",
     "mapsUrl": "https://www.bing.com/maps?q=Q8+Peruwelz",
-    "categories": ["Station-service"],
+    "categories": [
+      "Station-service"
+    ],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost. Non valable sur tabac, alcool, jeux de hasard, essence."
@@ -162,7 +184,9 @@
     "photo": "./images/pasta.png",
     "website": "https://www.facebook.com/profile.php?id=61575798171314",
     "mapsUrl": "https://www.google.com/maps/place/Grand-Place+45,+7600+Péruwelz",
-    "categories": ["Food"],
+    "categories": [
+      "Food"
+    ],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -179,7 +203,11 @@
     "photo": "./images/bam.png",
     "website": "https://boiteamalice.be/",
     "mapsUrl": "https://www.google.com/maps/place/La+Boite+à+Malice+Calipage/@50.5123849,3.5920532,15z",
-    "categories": ["Fournitures de bureau", "Informatique", "Librairie"],
+    "categories": [
+      "Fournitures de bureau",
+      "Informatique",
+      "Librairie"
+    ],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -196,7 +224,10 @@
     "photo": "./images/fc.png",
     "website": "https://www.facebook.com/profile.php?id=100013707095752",
     "mapsUrl": "https://www.google.com/maps/place/Rue+Astrid+35,+7600+Péruwelz",
-    "categories": ["Décoration", "Fleuriste"],
+    "categories": [
+      "Décoration",
+      "Fleuriste"
+    ],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -213,7 +244,10 @@
     "photo": "./images/qdf.png",
     "website": "https://www.facebook.com/88.quai.des.fleurs",
     "mapsUrl": "https://www.google.com/maps/place/Quai+des+fleurs/@50.523732,3.601425,16z",
-    "categories": ["Décoration", "Fleuriste"],
+    "categories": [
+      "Décoration",
+      "Fleuriste"
+    ],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -230,7 +264,10 @@
     "photo": "./images/escale.png",
     "website": "https://www.booking.com/hotel/be/l-escale-spa-privatif.fr.html",
     "mapsUrl": "https://www.google.com/maps/place/L'escale+Spa+privatif",
-    "categories": ["Ressourcement", "Bien-être"],
+    "categories": [
+      "Ressourcement",
+      "Bien-être"
+    ],
     "advantage": {
       "label": "15% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost. Ne pas passer par Booking pour réserver. Réduction valable uniquement en contactant Wendy directement au 0455 17 09 60 et en joignant votre carte Ecofrost."
@@ -247,7 +284,11 @@
     "photo": "./images/nars.png",
     "website": "http://www.narcissik.be/2015/fr/",
     "mapsUrl": "https://www.bing.com/maps/search?q=Narcissik+Peruwelz",
-    "categories": ["Ressourcement", "Bien-être", "Beauté"],
+    "categories": [
+      "Ressourcement",
+      "Bien-être",
+      "Beauté"
+    ],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost et sous réserve de promotion."
@@ -264,7 +305,10 @@
     "photo": "./images/ser.png",
     "website": "https://www.serendipityfashionstore.be/",
     "mapsUrl": "https://www.bing.com/maps/search?q=Serendipity,+Rue+Pont+a+la+Faulx+2,+7600+Péruwelz",
-    "categories": ["Mode", "Vêtement"],
+    "categories": [
+      "Mode",
+      "Vêtement"
+    ],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -281,7 +325,10 @@
     "photo": "./images/inter.png",
     "website": "https://www.intermarche.be/magasins/intermarche-peruwelz/",
     "mapsUrl": "https://www.bing.com/maps/search?q=Intermarché+Péruwelz",
-    "categories": ["Alimentation", "Supermarché"],
+    "categories": [
+      "Alimentation",
+      "Supermarché"
+    ],
     "advantage": {
       "label": "5% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -298,7 +345,11 @@
     "photo": "./images/eric.png",
     "website": "https://www.facebook.com/profile.php?id=100063505812973",
     "mapsUrl": "https://www.bing.com/maps/search?q=Graine+de+pain+Péruwelz",
-    "categories": ["Alimentation", "Boulangerie", "Food"],
+    "categories": [
+      "Alimentation",
+      "Boulangerie",
+      "Food"
+    ],
     "advantage": {
       "label": "10% de réduction dès 20€ d'achat",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -315,7 +366,11 @@
     "photo": "./images/L.png",
     "website": "https://www.facebook.com/TempspourLsr",
     "mapsUrl": "https://www.google.com/maps/place/Un+temps+pour+L/@50.4964371,3.602352,17z",
-    "categories": ["Ressourcement", "Bien-être", "Beauté"],
+    "categories": [
+      "Ressourcement",
+      "Bien-être",
+      "Beauté"
+    ],
     "advantage": {
       "label": "10% de réduction",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -332,7 +387,11 @@
     "photo": "./images/indigo.png",
     "website": "https://institut-de-beaute-indigolab.be/",
     "mapsUrl": "https://www.google.com/maps/place/Indigo+Lab+Institut+Péruwelz",
-    "categories": ["Ressourcement", "Bien-être", "Beauté"],
+    "categories": [
+      "Ressourcement",
+      "Bien-être",
+      "Beauté"
+    ],
     "advantage": {
       "label": "10% de réduction uniquement sur les soins visage et massage",
       "conditions": "Sur présentation de la carte avantages Ecofrost."
@@ -349,7 +408,9 @@
     "photo": "./images/gio.png",
     "website": "https://tickets.imagix.be/",
     "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=Imagix+Mons&ss=id.ypid%3AA1B36026A25855B6",
-    "categories": ["Divertissement"],
+    "categories": [
+      "Divertissement"
+    ],
     "advantage": {
       "label": "tickets 2D en ligne et aux guichets à 9.30 euros au lieu du tarif habituel",
       "conditions": "Avec le code IMAGIXFROST26."
@@ -360,13 +421,15 @@
     "id": "IMAGIX-MONS",
     "name": "IMAGIX MONS",
     "address": "Boulevard André Delvaux 1, 7000 Mons",
-    "city": "MONS"
+    "city": "Mons",
     "lat": 50.461609,
     "lng": 3.9356772,
     "photo": "./images/gio.png",
     "website": "https://tickets.imagix.be/",
     "mapsUrl": "https://www.bing.com/maps/search?ty=0&v=2&sV=1&style=r&q=Imagix+Mons&ss=id.ypid%3AA1B36026A25855B6",
-    "categories": ["Divertissement"],
+    "categories": [
+      "Divertissement"
+    ],
     "advantage": {
       "label": "tickets 2D en ligne et aux guichets à 9.30 euros au lieu du tarif habituel",
       "conditions": "Avec le code IMAGIXFROST26."
@@ -377,17 +440,19 @@
     "id": "IMAGIX-TOURNAI",
     "name": "IMAGIX TOURNAI",
     "address": "Boulevard Delwart 60, 7500 Tournai",
-    "city": "Tournai"
+    "city": "Tournai",
     "lat": 50.6146896,
     "lng": 3.3855906,
     "photo": "./images/gio.png",
     "website": "https://tickets.imagix.be/",
     "mapsUrl": "https://www.bing.com/maps/search?name=IMAGIX&trfc=&mepi=0%7E%7EEmbedded%7ELargeMapLink&FORM=MPSRPL&style=r&q=IMAGIX&ss=id.ypid%3AYNAE62E0B6FF5E1DD2&ppois=50.61498260498047_3.3856194019317627_IMAGIX&cp=50.614983%7E3.385619&lvl=15",
-    "categories": ["Divertissement"],
+    "categories": [
+      "Divertissement"
+    ],
     "advantage": {
       "label": "tickets 2D en ligne et aux guichets à 9.30 euros au lieu du tarif habituel",
       "conditions": "Avec le code IMAGIXFROST26."
     },
     "openingHours": "Voir site web (horaires spécifiques)"
-  {
-  ]
+  }
+]
