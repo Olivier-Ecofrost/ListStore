@@ -454,5 +454,24 @@
       "conditions": "Avec le code IMAGIXFROST26."
     },
     "openingHours": "Voir site web (horaires spécifiques)"
+  },
+  {
+    "id": "EcoPark- Aventures- Tournai",
+    "name": "EcoPark Aventure Tournai",
+    "address": "Rue de l'Orient 1, 7500 Tournai",
+    "city": "Tournai",
+    "lat": 50.6007037,
+    "lng": 3.4147088,
+    "photo": "./images/ecopark.png",
+    "website": "https://ecopark-adventures.com/parc/tournai-belgique/",
+    "mapsUrl": "https://www.bing.com/maps/search?name=Ecopark+Adventures+Tournai+%7C+Accrobranche+Belgique&trfc=&mepi=139%7E%7EEmbedded%7ELargeMapLink&FORM=MPSRPL&style=r&q=Ecopark+Adventures+Tournai+%7C+Accrobranche+Belgique&ss=id.ypid%3AYND0F97010038A00FF&ppois=50.60247802734375_3.4147865772247314_Ecopark+Adventures+Tournai+%7C+Accrobranche+Belgique&cp=50.602478%7E3.414787&lvl=15",
+    "categories": [
+      "Divertissement"
+    ],
+    "advantage": {
+      "label": "Réduction de -25% pour toutes les places (aucun nombre de ticket maximum ou minimum)",
+      "conditions": "Avec le code Ecofrost7600."
+    },
+    "openingHours": "Voir site web (horaires spécifiques)"
   }
 ]
